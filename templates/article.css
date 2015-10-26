@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,400italic,300italic,700,500italic,500,700italic&subset=latin,latin-ext);
+
+body {
+	margin: 5%;
+	text-align: justify;
+	font-size: 12px;
+	font-family: Ubuntu;
+}
+
+h1 {
+	font: 45px Ubuntu Light 1.3em;
+}
+
+h2 {
+	font: 32px Ubuntu Light 1.3em;
+}
+
+h3 {
+	font: 23px Ubuntu Light 1.3em;
+}
+
+h4 {
+	font: 20px Ubuntu Light 1.3em;
+}
+
+h5 {
+	font: 16px Ubuntu Regular Bold 1.3em;
+}
+
+code {
+	font: 12px Ubuntu Mono;
+}
+
+a {
+	color: #DD4814;
+	text-decoration: none;
+}
+
+p {
+	font: 16px Ubuntu Light 1.5em;
+}

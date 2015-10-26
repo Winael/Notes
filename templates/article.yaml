@@ -1,0 +1,10 @@
+---
+mainfont: Ubuntu
+sansfont: Ubuntu
+monofont: Ubuntu Mono
+linkcolor: UbuntuOrange
+urlcolor: UbuntuOrange
+toccolor: UbuntuOrange
+geometry: margin=2cm
+fontsize: 12pt
+---
