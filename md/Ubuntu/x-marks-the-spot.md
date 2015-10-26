@@ -12,16 +12,31 @@ viewport: 'width=device-width, initial-scale=1'
 
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
+<!-- lang: EN
 What a great Wily it’s been, and for those of you who live on the latest release and haven’t already updated, the bits are baked and looking great. You can jump the queue if you know where to look while we spin up the extra servers needed for IMG and ISO downloads :)
+-->
 
+Comment Wily a été merveilleux, et pour ceux qui seraient encore sur la dernière version et qui ne l'ont pas mis à jour, les bits sont cuits et semblent bons. Vous pouvez sauter la file d'attente si vous savez où chercher pendant que nous faisons tourner les serveurs supplémentaires nécessaires au téléchargement des IMG et des ISO :)
+
+<!-- lang: EN
 Utopic, Vivid and Wily have been three intense releases, packed with innovation, and now we intend to bring all of those threads together for our Long Term Support release due out in April 2016.
+-->
+
+Utopic, Vivid et Wily ont été trois versions intenses, emballées avec de l'innovation, et maintenant nous avons l'attention de mettre tous ces sujets ensemble pour notre version Support à Long Terme prévue pour Avril 2016.
 
 <div id="LXD-is-the-pure-container-hypervisor" style="float: right;">
   <img src="http://assets.ubuntu.com/sites/ubuntu/1533/u/img/homepage/lxd_takeover.png" alt="LXD is the lightervisor, a pure-container virtualisation system, the world's fastest hypervisor." style="max-width:100%;display: block;" />
+  <!--lang: EN
   LXD is the pure container hypervisor
+  -->
+  LXD est l'hyperviseur de conteneurs pur
 </div>
 
+<!-- lang: EN
 **LXD is the world’s fastest hypervisor, led by Canonical, a pure-container way to run Linux guests on Linux hosts.** If you haven’t yet played with LXD (a.k.a LXC 2.0-b1) it will blow you away.  It will certainly transform your expectations of virtualisation, from slow-and-hard to amazingly light and fast. Imagine getting a full machine running any Linux you like, as a container on your laptop, in less than a second. For me, personally, it has become a fun way to clean up my build processes, spinning up a container on demand to make sure I always build in a fresh filesystem.
+-->
+
+**LXD est l'hyperviseur le plus rapide du monde, mené par Canonical, une manière de pur conteneur pour exécuter des invités Linux sur des hôtes Linux.** Si vous n'avez pas encore joué avec LXD (aka LXC 2.0 b1) il vous soufflera. Il va certainement transformer vos attentes sur la virtualisation, de lente-et-difficile à étonnamment légère et rapide. Imaginez-vous une machine complète faisant tourner n'importe quel Linux vous aimez, comme un conteneur sur votre ordinateur portable, en moins d'une seconde. Pour moi, personnellement, c'est devenu une façon amusante de nettoyer mes processus de construction, en faisant tourner conteneur à la demande pour m'assurer que je construis toujours dans un nouveau système de fichiers.
 
 <div id="snappy-packaging-system" style="float: left;">
   <img src="https://assets.ubuntu.com/sites/ubuntu/1253/u/img/cloud/tools/snappy/snappy.png" alt"Snappy packages have transactional updates with rollback." style="max-width:100%;display: block;" />
