@@ -17,14 +17,16 @@ What a great Wily it’s been, and for those of you who live on the latest relea
 Utopic, Vivid and Wily have been three intense releases, packed with innovation, and now we intend to bring all of those threads together for our Long Term Support release due out in April 2016.
 
 <div id="LXD-is-the-pure-container-hypervisor" style="float: right;">
-  <img src="http://assets.ubuntu.com/sites/ubuntu/1533/u/img/homepage/lxd_takeover.png" alt="LXD is the lightervisor, a pure-container virtualisation system, the world's fastest hypervisor." style="max-width:100%;display: block;"/>
+  <img src="http://assets.ubuntu.com/sites/ubuntu/1533/u/img/homepage/lxd_takeover.png" alt="LXD is the lightervisor, a pure-container virtualisation system, the world's fastest hypervisor." style="max-width:100%;display: block;" />
   LXD is the pure container hypervisor
 </div>
 
 **LXD is the world’s fastest hypervisor, led by Canonical, a pure-container way to run Linux guests on Linux hosts.** If you haven’t yet played with LXD (a.k.a LXC 2.0-b1) it will blow you away.  It will certainly transform your expectations of virtualisation, from slow-and-hard to amazingly light and fast. Imagine getting a full machine running any Linux you like, as a container on your laptop, in less than a second. For me, personally, it has become a fun way to clean up my build processes, spinning up a container on demand to make sure I always build in a fresh filesystem.
 
-Snappy packages have transactional updates with rollback
+<div id="snappy-packaging-system" style="float: left;">
+  <img src="https://assets.ubuntu.com/sites/ubuntu/1253/u/img/cloud/tools/snappy/snappy.png" alt"Snappy packages have transactional updates with rollback." style="max-width:100%;display: block;" />
 Snappy Packaging System
+</div>
 
 **Snappy is the world’s most secure packaging system**, delivering crisp and transaction updates with rollback for both applications and the system, from phone to appliance. We’re using snappy on high-end switches and flying wonder-machines, on raspberry pi’s and massive clouds. Ubuntu Core is the all-snappy minimal server, and Ubuntu Personal will be the all-snappy phone / tablet / pc. With a snap you get to publish exactly the software you want to your device, and update it instantly over the air, just like we do the Ubuntu Phone. Snappy packages are automatically confined to ensure that a bug in one app doesn’t put your data elsewhere at risk. Amazing work, amazing team, amazing community!
 
