@@ -17,7 +17,7 @@ What a great Wily it’s been, and for those of you who live on the latest relea
 Utopic, Vivid and Wily have been three intense releases, packed with innovation, and now we intend to bring all of those threads together for our Long Term Support release due out in April 2016.
 
 <div id="LXD-is-the-pure-container-hypervisor">
-  <img src="http://assets.ubuntu.com/sites/ubuntu/1533/u/img/homepage/lxd_takeover.png" alt="LXD is the lightervisor, a pure-container virtualisation system, the world's fastest hypervisor." style="float:right" />
+  <img src="http://assets.ubuntu.com/sites/ubuntu/1533/u/img/homepage/lxd_takeover.png" alt="LXD is the lightervisor, a pure-container virtualisation system, the world's fastest hypervisor." style="float:right;" />
   LXD is the pure container hypervisor
 </div>
 
