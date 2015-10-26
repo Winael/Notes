@@ -16,7 +16,7 @@ What a great Wily it’s been, and for those of you who live on the latest relea
 
 Utopic, Vivid and Wily have been three intense releases, packed with innovation, and now we intend to bring all of those threads together for our Long Term Support release due out in April 2016.
 
-![][1]
+![LXD is the pure-container hypervisor][1]
 
 **LXD is the world’s fastest hypervisor, led by Canonical, a pure-container way to run Linux guests on Linux hosts.** If you haven’t yet played with LXD (a.k.a LXC 2.0-b1) it will blow you away.  It will certainly transform your expectations of virtualisation, from slow-and-hard to amazingly light and fast. Imagine getting a full machine running any Linux you like, as a container on your laptop, in less than a second. For me, personally, it has become a fun way to clean up my build processes, spinning up a container on demand to make sure I always build in a fresh filesystem.
 
