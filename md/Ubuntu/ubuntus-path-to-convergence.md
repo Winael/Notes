@@ -12,7 +12,7 @@ viewport: 'width=device-width, initial-scale=1'
 
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-[![Converged\_devices\_Music](https://insights.ubuntu.com/wp-content/uploads/c8a9/Converged_devices_Music.png)](/home/winael/Documents/Notes/fig/Ubuntu/Converged_devices_Music.png)
+[![Converged\_devices\_Music](https://insights.ubuntu.com/wp-content/uploads/c8a9/Converged_devices_Music.png)](../../fig/Ubuntu/Converged_devices_Music.png)
 
 <!-- lang: EN
 Ubuntu device convergence is now starting to happen as we move closer to bringing the first smartphones to market carrying a full Ubuntu desktop interface.
