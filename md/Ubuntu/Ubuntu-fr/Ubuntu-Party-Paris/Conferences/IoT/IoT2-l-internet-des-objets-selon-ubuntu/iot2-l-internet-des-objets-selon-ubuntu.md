@@ -1,6 +1,6 @@
 ---
 file: iot2-l-internet-des-objets-selon-ubuntu.md
-title: "IoT^2, L'Internet des objets selon Ubuntu"
+title: "IoT², L'Internet des objets selon Ubuntu"
 author: Winael
 category: Internet des Objets
 tags: Internet des Objets,IoT,IdO
@@ -9,11 +9,16 @@ status: draft
 
 # Présentation
 
+**Prénom NOM :** Vincent JOBARD  
+**Surnom :** Winael  
+**Email :** vinzjobard@ubuntu.com  
 
+# Qu'est-ce que l'Internet des Objets ?
 
-# Qu'est-ce que l'Internet des Objets
+**Définition (Officielle) :**
+*L'Internet des Objets est une « infrastructure mondiale pour la société de l'information, qui permet de disposer de services évolués en interconnectant des objets (physiques ou virtuels) grâce aux technologies de l'information et de la communication interopérables existantes ou en évolution »* 
 
-
+**source :** *Présentation générale de l'Internet des objets (ITU-T Y.2060), Juin 2012, § 3.2.2* de l'**Union internationale des télécommunications**
 
 # La maison intelligente
 
