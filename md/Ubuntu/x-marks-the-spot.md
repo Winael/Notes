@@ -6,7 +6,7 @@ author: Mark Shuttleworth
 translation: Winael
 date: 2015-10-26
 category: Ubuntu
-tags: Ubuntu,Ubuntu operating system,tablet,smartphone,phone,convergence,lxc,lxd,Snappy,MaaS,Juju
+tags: Ubuntu,Ubuntu operating system,tablet,smartphone,phone,convergence,lxc,lxd,Snappy,MaaS,Juju,Xenial Xerus,16.04 LTS
 viewport: 'width=device-width, initial-scale=1'
 ---
 
@@ -30,17 +30,22 @@ Snappy Packaging System
 
 **Snappy is the world’s most secure packaging system**, delivering crisp and transaction updates with rollback for both applications and the system, from phone to appliance. We’re using snappy on high-end switches and flying wonder-machines, on raspberry pi’s and massive clouds. Ubuntu Core is the all-snappy minimal server, and Ubuntu Personal will be the all-snappy phone / tablet / pc. With a snap you get to publish exactly the software you want to your device, and update it instantly over the air, just like we do the Ubuntu Phone. Snappy packages are automatically confined to ensure that a bug in one app doesn’t put your data elsewhere at risk. Amazing work, amazing team, amazing community!
 
-MAAS is your physical cloud
+<div id="metal-as-a-service" style="float: right;">
+  <img src="http://maas.ubuntu.com/wp-content/uploads/2013/01/maas-logo.png" alt="MAAS is your physical cloud
+Metal as a Service." style="max-width:100%;display: block;" />
 Metal as a Service
+</div>
 
-MAAS is your physical cloud, with bare-metal machines on demand, supporting Ubuntu, CentOS and Windows. Drive your data centre from a single dashboard, bond network interfaces, raid your disks and rock the cloud generation. Led by Canonical, loved by the world leaders of big, and really big, deployments. MAAS gives you high availability DNS, DHCP, PXE and other critical infrastructure, for huge and dynamic data centres. Also pretty fun to run at home.
+**MAAS is your physical cloud**, with bare-metal machines on demand, supporting Ubuntu, CentOS and Windows. Drive your data centre from a single dashboard, bond network interfaces, raid your disks and rock the cloud generation. Led by Canonical, loved by the world leaders of big, and really big, deployments. MAAS gives you high availability DNS, DHCP, PXE and other critical infrastructure, for huge and dynamic data centres. Also pretty fun to run at home.
 
-Juju is… model-driven application orchestration, that lets communities define how big topological apps like Hadoop and OpenStack map onto the cloud of your choice. The fastest way to find the fastest way to spin those applications into the cloud you prefer. With traditional configuration managers like Puppet now also saying that model-driven approaches are the way to the future, I’m very excited to see the kinds of problems that huge enterprises are starting to solve with Juju, and equally excited to see start-ups using Juju to speed their path to adoption. Here’s the Hadoop, Spark, IPython Notebook coolness I deployed live on stage at Apache Hadoopcon this month:
+**Juju is… model-driven application orchestration**, that lets communities define how big topological apps like Hadoop and OpenStack map onto the cloud of your choice. The fastest way to find the fastest way to spin those applications into the cloud you prefer. With traditional configuration managers like Puppet now also saying that model-driven approaches are the way to the future, I’m very excited to see the kinds of problems that huge enterprises are starting to solve with Juju, and equally excited to see start-ups using Juju to speed their path to adoption. Here’s the Hadoop, Spark, IPython Notebook coolness I deployed live on stage at Apache Hadoopcon this month:
 
-Juju model of Apache Hadoop with Spark and IPython Notebook
+<div id="apache-hadoop-spark-ipython-modelled-with-juju">
+  <img src="https://www.markshuttleworth.com/wp-content/uploads/2015/10/ff6a/apache-hadoop-spark.png" alt="Juju model of Apache Hadoop with Spark and IPython Notebook" style="max-width:100%;display: block;" />
 Apache Hadoop, Spark, IPython modelled with Juju
+</div>
 
-All of these are coming together beautifully, making Ubuntu the fastest path to magic of all sorts. And that magic will go by the codename… xenial xerus!
+All of these are coming together beautifully, making Ubuntu the fastest path to magic of all sorts. And that magic will go by the codename… **xenial xerus**!
 
 What fortunate timing that our next LTS should be X, because “xenial” means “friendly relations between hosts and guests”, and given all the amazing work going into LXD and KVM for Ubuntu OpenStack, and beyond that the interoperability of Ubuntu OpenStack with hypervisors of all sorts, it seems like a perfect fit.
 
