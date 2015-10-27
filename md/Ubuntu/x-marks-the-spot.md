@@ -64,7 +64,11 @@ Metal as a Service
 Métal en tant que Service
 </div>
 
+<!-- lang: EN
 **MAAS is your physical cloud**, with bare-metal machines on demand, supporting Ubuntu, CentOS and Windows. Drive your data centre from a single dashboard, bond network interfaces, raid your disks and rock the cloud generation. Led by Canonical, loved by the world leaders of big, and really big, deployments. MAAS gives you high availability DNS, DHCP, PXE and other critical infrastructure, for huge and dynamic data centres. Also pretty fun to run at home.
+-->
+
+**MAAS est votre nuage physique**, avec des serveurs physiques à la demande, supportant Ubuntu, CentOS et Windows. Gérer votre centre de données à partir d'un seul tableau de bord, les interfaces réseau obligataire, le RAID de vos disques et secouez la génération de nuage. Mené par Canonical, aimé par les leaders mondiaux de grands et très grands déploiements. MAAS vous donne une haute disponibilité DNS, DHCP, PXE et autres infrastructures essentielles, pour des centres de données énormes et dynamiques. C'est également assez amusant d'en faire tourner à la maison.
 
 **Juju is… model-driven application orchestration**, that lets communities define how big topological apps like Hadoop and OpenStack map onto the cloud of your choice. The fastest way to find the fastest way to spin those applications into the cloud you prefer. With traditional configuration managers like Puppet now also saying that model-driven approaches are the way to the future, I’m very excited to see the kinds of problems that huge enterprises are starting to solve with Juju, and equally excited to see start-ups using Juju to speed their path to adoption. Here’s the Hadoop, Spark, IPython Notebook coolness I deployed live on stage at Apache Hadoopcon this month:
 
