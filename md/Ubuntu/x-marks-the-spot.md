@@ -102,6 +102,6 @@ And Xerus, the African ground squirrels, are among the most social animals in my
 -->
 
 Et Xerus, les [écureuils de terre][2] africains, sont parmi les animaux les plus sociales dans mon pays d'origine. Ils prospèrent dans le désert, ils vivent en petits groupes sociaux, agile, qui s'accomodent exceptionnellement bien avec leurs voisins (pour la plupart des mammifères, les voisins sont une source de sanglante concurrence, pour Xerus, hey, la collaboration est un truc de cool). Ils sont rapides, fougueux, amicaux et connu pour leur énorme... courage. Cela semble à peu près normal. Avec beaucoup... de courage... viennent de grandes opportunités !
-
+ 
 [1]: http://assets.ubuntu.com/sites/ubuntu/1533/u/img/homepage/lxd_takeover.png
 [2]: https://fr.wikipedia.org/wiki/Xerus_inauris
