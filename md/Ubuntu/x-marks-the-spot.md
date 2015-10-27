@@ -91,8 +91,17 @@ All of these are coming together beautifully, making Ubuntu the fastest path to 
 
 Tout ça se rassemble magnifiquement, faisant d'Ubuntu le chemin le plus rapide vers toute sorte de magie. Et cette magie va avoir comme nom de code ... **xenial xerus** !
 
+<!-- lang: EN
 What fortunate timing that our next LTS should be X, because “xenial” means “friendly relations between hosts and guests”, and given all the amazing work going into LXD and KVM for Ubuntu OpenStack, and beyond that the interoperability of Ubuntu OpenStack with hypervisors of all sorts, it seems like a perfect fit.
+-->
 
+Quelle calendrier chanceux que notre prochaine LTS devait être X, parce que « xenial » signifie « des relations amicales entre les hôtes et les invités », et compte tenu de tout le travail incroyable pour l'intégration de LXD et KVM dans Ubuntu OpenStack, et au-delà pour l'interopérabilité d'Ubuntu OpenStack avec des hyperviseurs de toutes sortes, cela ressemble à un ajustement parfait.
+
+<!-- lang: EN
 And Xerus, the African ground squirrels, are among the most social animals in my home country. They thrive in the desert, they live in small, agile, social groups that get along unusually well with their neighbours (for most mammals, neighbours are a source of bloody competition, for Xerus, hey, collaboration is cool). They are fast, feisty, friendly and known for their enormous… courage. That sounds just about right. With great… courage… comes great opportunity!
+-->
+
+Et Xerus, les [écureuils de terre][2] africains, sont parmi les animaux les plus sociales dans mon pays d'origine. Ils prospèrent dans le désert, ils vivent en petits groupes sociaux, agile, qui s'accomodent exceptionnellement bien avec leurs voisins (pour la plupart des mammifères, les voisins sont une source de sanglante concurrence, pour Xerus, hey, la collaboration est un truc de cool). Ils sont rapides, fougueux, amicaux et connu pour leur énorme... courage. Cela semble à peu près normal. Avec beaucoup... de courage... viennent de grandes opportunités !
 
 [1]: http://assets.ubuntu.com/sites/ubuntu/1533/u/img/homepage/lxd_takeover.png
+[2]: https://fr.wikipedia.org/wiki/Xerus_inauris
