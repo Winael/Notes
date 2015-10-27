@@ -18,7 +18,7 @@ status: draft
 **Définition (Officielle) :**
 *L'Internet des Objets est une « infrastructure mondiale pour la société de l'information, qui permet de disposer de services évolués en interconnectant des objets (physiques ou virtuels) grâce aux technologies de l'information et de la communication interopérables existantes ou en évolution »* 
 
-**source :** *Présentation générale de l'Internet des objets (ITU-T Y.2060), Juin 2012, § 3.2.2* de l'**Union internationale des télécommunications**
+**source :** [*Présentation générale de l'Internet des objets (ITU-T Y.2060), Juin 2012, § 3.2.2*][2] de l'**Union internationale des télécommunications**
 
 # La maison intelligente
 
@@ -49,3 +49,6 @@ status: draft
 
 
 # Questions
+
+[1]: mailto:vinzjobard@ubuntu.com
+[2]: https://www.itu.int/rec/dologin_pub.asp?lang=f&id=T-REC-Y.2060-201206-I!!PDF-F&type=items
