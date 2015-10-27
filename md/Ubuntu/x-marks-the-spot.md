@@ -55,9 +55,13 @@ Système de paquets Snappy
 **Snappy est le système de paquetse le plus sécurisé du monde**, fournissant des mises à jour nettes et transactionnelles avec retour/arrière pour les applications et le système, du téléphone aux appareils. Nous utilisons Snappy sur les commutateurs haut de gamme et merveilleuses-machines volantes, sur les nuages de Raspberry Pi de nuages ou massifs. Ubuntu Core est le serveur minimal entièrement sous Snappy, et Ubuntu personnel sera le téléphone/tablette/pc entièrement sous Snapppy. En un clin d'oeil vous pouvez publier exactement le logiciel que vous souhaitez sur votre dispositif, et le mettre à jour instantanément par les airs, comme nous le faisons sur le téléphone Ubuntu. Les paquets Snappy sont automatiquement confinés pour veiller à ce que qu'aucun bug dans une application ne prenne le risque de mettre vos données ailleurs. Un travail extraordinaire, une équipe formidable, une incroyable communauté !
 
 <div id="metal-as-a-service" style="float: right;">
+<!-- lang: EN
   <img src="http://maas.ubuntu.com/wp-content/uploads/2013/01/maas-logo.png" alt="MAAS is your physical cloud
 Metal as a Service." style="max-width:100%;display: block;" />
 Metal as a Service
+-->
+  <img src="http://maas.ubuntu.com/wp-content/uploads/2013/01/maas-logo.png" alt="MAAS est votre nuage physique de Métal en tant que Service." style="max-width:100%;display: block;" />
+Métal en tant que Service
 </div>
 
 **MAAS is your physical cloud**, with bare-metal machines on demand, supporting Ubuntu, CentOS and Windows. Drive your data centre from a single dashboard, bond network interfaces, raid your disks and rock the cloud generation. Led by Canonical, loved by the world leaders of big, and really big, deployments. MAAS gives you high availability DNS, DHCP, PXE and other critical infrastructure, for huge and dynamic data centres. Also pretty fun to run at home.
