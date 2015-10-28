@@ -87,17 +87,43 @@ This wouldn’t have been possible without the SCALE team either: an excellent h
 
 Cela n'aurait pas été possible sans l'équipe de SCALE soit : un excellent hôte pour les UbuCons dans le passé et à nouveau à cette occasion. En particulier, [Gareth Greenaway][7] et [Ilan Rabinovitch][8], qui nous aident à la logistique et à l'organisation tout au long du chemin. Si vous vous rejoignez le Sommet, je vous recommande beaucoup à rester à SCALE également !
 
+<!-- lang: EN
 # More Summit news coming soon
+-->
 
+# Plus de nouvelles du Sommet prochainement
+
+<!-- lang: EN
 On the next few weeks we’ll be sharing more details about the Summit, revamping the global [UbuCon site][9] and updating the [SCALE schedule][10] with all relevant information.
+-->
 
+Dans les prochaines semaines, nous partagerons plus de détails sur le Sommet, la refonte globlae du [site UbuCon][9] et les mise à jour du [programme SCALE][10] avec toutes les informations pertinentes.
+
+<!--
 Stay tuned for more, including the session about the UbuCon Summit at the [next Ubuntu Online Summit in two weeks][11].
+-->
 
+Restez à l'écoute pour en savoir plus, y compris sur la session à propos du Sommet UbuCon durant [le prochain Sommet Ubuntu en ligne dans deux semaines][11].
+
+<!-- lang: EN
 Looking forward to seeing some known and new faces at the UbuCon Summit in January!
+-->
 
+Au plaisir de voir quelques visages connus et de nouvelles têtes au Sommet UbuCon en Janvier!
+
+<!-- lang: EN
 [Picture from an original by cm-t arudy][12]
+-->
 
+[Photo originale de cm-t arudy][12]
+
+<!-- lang: EN
 The post [Announcing the UbuCon Summit][13] appeared first on [David Planella][14].
+-->
+
+Le billet [Announcing the UbuCon Summit][13] est apparu pour la première fois sur le [blog de David Planella][14].
+
+**source :** [_Announcing the UbuCon Summit_][15] sur [Ubuntu Insights][16]
 
 [1]: http://davidplanella.org/wp-content/uploads/2015/10/ubuntu-community.jpg
 [2]: https://www.socallinuxexpo.org/
@@ -113,3 +139,5 @@ The post [Announcing the UbuCon Summit][13] appeared first on [David Planella][1
 [12]: https://plus.google.com/photos/+cmtarudy?pid=6153835463869300226&oid=112458913927492831503
 [13]: http://davidplanella.org/announcing-the-ubucon-summit/
 [14]: http://davidplanella.org/
+[15]: http://insights.ubuntu.com/2015/10/21/announcing-the-ubucon-summit/
+[16]: http://insights.ubuntu.com/
