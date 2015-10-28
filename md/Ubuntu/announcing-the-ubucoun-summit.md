@@ -121,7 +121,7 @@ Au plaisir de voir quelques visages connus et de nouvelles têtes au Sommet UbuC
 The post [Announcing the UbuCon Summit][13] appeared first on [David Planella][14].
 -->
 
-Le billet [Announcing the UbuCon Summit][13] est apparu pour la première fois sur le [blog de David Planella][14].
+Le billet [_Announcing the UbuCon Summit_][13] est apparu pour la première fois sur le [blog de David Planella][14].
 
 **source :** [_Announcing the UbuCon Summit_][15] sur [Ubuntu Insights][16]
 
