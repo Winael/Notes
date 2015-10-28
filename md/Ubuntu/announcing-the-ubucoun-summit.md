@@ -50,11 +50,24 @@ Le Sommet est l'expansion d'une UbuCon traditionnelle: plus de contenu et à une
 
 # Deux jours et de pistes de contenus
 
+<!-- lang: EN
 During these **two days**, the event will be structured as a traditional **conference** with presentations, demos and plenaries on the first day and as an **unconference** for the second one. The idea behind the unconference is simple: participants will propose a set of topics in situ, each one of which will be scheduled as a session. For each session the goal is to have a discussion and reach a set of conclusions and actions to address the topics. Some of you will be familiar with the setting :)
+-->
 
+Au cours de ces **deux jours**, l'événement sera structuré comme une **conférence** traditionnelle avec des présentations, des démonstrations et des séances plénières la première journée et comme une **non-conférence** pour le second. L'idée derrière la non-conference est simple : les participants vont proposer un ensemble de sujets in situ, dont chacun sera programmée comme une session. Pour chaque session, le but est d'avoir une discussion pour aboutir à un ensemble de conclusions et de mesures pour clore cees sujets. Certains d'entre vous seront familiers avec cette façon de faire :)
+
+<!-- lang: EN
 We will also have **two tracks** to group sessions by theme: **Users**, for those interested in learning about the non-tech, day-to-day part of using Ubuntu, but also including the component on how to contribute to Ubuntu as an advocate. The **Developers** track will cover the sessions for the technically minded, including app development, IoT, convergence, cloud and more. One of the exciting things about our community is that there is so much overlap between these themes to make both tracks interesting to everyone.
+-->
 
+Nous aurons également **deux pistes** pour groupe les séances par thème: **Utilisateurs**, pour les personnes qui sont intéressées à en apprendre d'avantage sur la partie non-tech, au jour le jour de l'utilisation d'Ubuntu, mais incluant également la composante sur la façon de contribuer à Ubuntu en tant que promoteur. La piste **développeurs** couvrira les sessions pour les esprits techniques, y compris le développement d'applications, l'IdO, la convergence, le nuage et plus. Une des choses passionnantes sur notre communauté c'est qu'il ya tellement de chevauchement entre ces thèmes pour pouvoir faire des deux pistes qu'elles soient intéressantes pour tout le monde.
+
+<!-- lang: EN
 All in all, the idea is to provide a space to showcase, learn about and discuss the latest Ubuntu technologies, but also to focus on new and vibrant parts of the community and talk about the challenges (and opportunities!) we are facing as a project.
+-->
+
+Dans l'ensemble, l'idée est de fournir un espace pour mettre en valeur, apprendre et discuter des dernières technologies Ubuntu, mais aussi de se concentrer sur de nouvelles et dynamiques parties de la communauté et de parler des défis (et des possibilités!) auxquels nous sommes confrontés en tant que projet.
+
 
 # A first-class team
 
