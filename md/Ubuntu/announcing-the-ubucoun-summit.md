@@ -69,11 +69,23 @@ All in all, the idea is to provide a space to showcase, learn about and discuss 
 Dans l'ensemble, l'idée est de fournir un espace pour mettre en valeur, apprendre et discuter des dernières technologies Ubuntu, mais aussi de se concentrer sur de nouvelles et dynamiques parties de la communauté et de parler des défis (et des possibilités!) auxquels nous sommes confrontés en tant que projet.
 
 
+<!-- lang: EN
 # A first-class team
+-->
 
+# Une équipe de première classe
+
+<!-- lang: EN
 In addition to the support and guidance from the Community Council, the true heroes of the story are [Richard Gaskin][5], [Nathan Haines][6] and the Ubuntu California LoCo. Through the years, they have been the engines behind the UbuCon at SCALE in LA, and this time around they were quick again to jump and drive the Summit wagon too.
+-->
 
+En plus du support et des conseils du Conseil de la Communauté, les vrais héros de l'histoire sont [Richard Gaskin][5], [Nathan Haines][6] et de la LoCo Ubuntu de Californie. Au fil des ans, ils ont été les moteurs derrière l'UbuCon à SCALE à Los Angeles, et cette fois ils ont été également de nouveau rapides à sauter et à conduire le wagon du Sommet.
+
+<!-- lang: EN
 This wouldn’t have been possible without the SCALE team either: an excellent host to UbuCon in the past and again on this occasion. In particular [Gareth Greenaway][7] and [Ilan Rabinovitch][8], who are helping us with the logistics and organization all along the way. If you are joining the Summit, I very much recommend to stay for SCALE as well!
+-->
+
+Cela n'aurait pas été possible sans l'équipe de SCALE soit : un excellent hôte pour les UbuCons dans le passé et à nouveau à cette occasion. En particulier, [Gareth Greenaway][7] et [Ilan Rabinovitch][8], qui nous aident à la logistique et à l'organisation tout au long du chemin. Si vous vous rejoignez le Sommet, je vous recommande beaucoup à rester à SCALE également !
 
 # More Summit news coming soon
 
