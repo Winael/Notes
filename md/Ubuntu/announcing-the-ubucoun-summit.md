@@ -30,13 +30,13 @@ Je suis ravi d'annoncer le prochain grand événement dans le calendrier Ubuntu 
 UbuCons are a remarkable achievement from the Ubuntu community: a network of conferences across the globe, organized by volunteers passionate about Open Source and about collaborating, contributing, and socializing around Ubuntu. The UbuCon at SCALE has been one of the most successful ones, and this year we are kicking it up a notch.
 -->
 
-Les UbuCons sont une réussite remarquable de la communauté Ubuntu : un réseau de conférences à travers le monde, organisé par des bénévoles passionnés par l'Open Source et la collaboration, la contribution, et la socialisation autour d'Ubuntu. L'UbuCon à SCALE a été l'une des plus réussies, et cette année nous allons monter d'un cran.
+Les UbuCons sont une réussite remarquable de la communauté Ubuntu : un réseau de conférences à travers le monde, organisé par des bénévoles passionnés par l'Open Source ainsi que la collaboration, la contribution, et la socialisation autour d'Ubuntu. L'UbuCon à SCALE a été l'une des plus réussies, et cette année nous allons monter d'un cran.
 
 <!-- lang: EN
 Enter the UbuCon Summit. In discussions with the [Community Council][3], and after the [participation of some Ubuntu team members at the Community Leadership Summit][4] a few months ago, one of the challenges that we identified our community is facing was the lack of a global event to meet face to face after the UDS era. While UbuCons continue to thrive as regional conferences, one of the conclusions we reached was that we needed a way to bring everyone together on a bigger setting to complement the UbuCon fabric: the Summit.
 -->
 
-Entrez dans le Sommet UbuCon. En discutant avec le [Conseil de la Communauté][3], et après la [participation de certains membres de l'équipe Ubuntu au Sommet de la Direction de Communauté][4] il ya quelques mois, l'un des défis que nous avons identifiés est que notre communauté est confrontée au manque d'un événement mondial pour pouvoir rencontrer face à face après l'ère des UDS. Alors que les UbuCons continuent à prospérer en tant conférences régionales, l'une des conclusions à laquelle nous sommes parvenus, est que nous avons besoin d'un moyen de rassembler tout le monde sur un plus grand paramètre pour compléter le tissu des UbuCon: le Sommet.
+Entrez dans le Sommet UbuCon. En discutant avec le [Conseil de la Communauté][3], et après la [participation de certains membres de l'équipe Ubuntu au Sommet de la Direction de Communauté][4] il y a quelques mois, l'un des défis que nous avons identifiés est que notre communauté est confrontée au manque d'événement mondial permettant de se rencontrer face à face après l'ère des UDS. Alors que les UbuCons continuent à prospérer en tant conférences régionales, l'une des conclusions à laquelle nous sommes parvenus, est que nous avons besoin d'un moyen de rassembler tout le monde sur un plus grand paramètre pour compléter le tissu des UbuCon: le Sommet.
 
 <!-- lang: EN
 The Summit is the expansion of the traditional UbuCon: more content and at a bigger scale. But at the same maintaining the grass-roots spirit and the community-driven organization that has made these events successful.
@@ -54,13 +54,13 @@ Le Sommet est l'expansion d'une UbuCon traditionnelle: plus de contenu et à une
 During these **two days**, the event will be structured as a traditional **conference** with presentations, demos and plenaries on the first day and as an **unconference** for the second one. The idea behind the unconference is simple: participants will propose a set of topics in situ, each one of which will be scheduled as a session. For each session the goal is to have a discussion and reach a set of conclusions and actions to address the topics. Some of you will be familiar with the setting :)
 -->
 
-Au cours de ces **deux jours**, l'événement sera structuré comme une **conférence** traditionnelle avec des présentations, des démonstrations et des séances plénières la première journée et comme une **non-conférence** pour le second. L'idée derrière la non-conference est simple : les participants vont proposer un ensemble de sujets in situ, dont chacun sera programmée comme une session. Pour chaque session, le but est d'avoir une discussion pour aboutir à un ensemble de conclusions et de mesures pour clore cees sujets. Certains d'entre vous seront familiers avec cette façon de faire :)
+Au cours de ces **deux jours**, l'événement sera structuré comme une **conférence** traditionnelle avec des présentations, des démonstrations et des séances plénières la première journée et comme une **non-conférence** pour le second. L'idée derrière la non-conference est simple : les participants vont proposer un ensemble de sujets in situ, dont chacun sera programmé comme une session. Pour chaque session, le but est d'avoir une discussion pour aboutir à un ensemble de conclusions et de mesures pour clore ces sujets. Certains d'entre vous seront familiers avec cette façon de faire :)
 
 <!-- lang: EN
 We will also have **two tracks** to group sessions by theme: **Users**, for those interested in learning about the non-tech, day-to-day part of using Ubuntu, but also including the component on how to contribute to Ubuntu as an advocate. The **Developers** track will cover the sessions for the technically minded, including app development, IoT, convergence, cloud and more. One of the exciting things about our community is that there is so much overlap between these themes to make both tracks interesting to everyone.
 -->
 
-Nous aurons également **deux pistes** pour groupe les séances par thème: **Utilisateurs**, pour les personnes qui sont intéressées à en apprendre d'avantage sur la partie non-tech, au jour le jour de l'utilisation d'Ubuntu, mais incluant également la composante sur la façon de contribuer à Ubuntu en tant que promoteur. La piste **développeurs** couvrira les sessions pour les esprits techniques, y compris le développement d'applications, l'IdO, la convergence, le nuage et plus. Une des choses passionnantes sur notre communauté c'est qu'il ya tellement de chevauchement entre ces thèmes pour pouvoir faire des deux pistes qu'elles soient intéressantes pour tout le monde.
+Nous aurons également **deux pistes** pour grouper les séances par thème: La piste **Utilisateurs**, pour les personnes qui sont intéressées d'apprendre davantage sur la partie non-tech, au jour le jour, de l'utilisation d'Ubuntu, mais incluant également la composante sur la manière de contribuer à Ubuntu en tant que promoteur. La piste **développeurs** couvrira les sessions pour les esprits techniques, y compris le développement d'applications, l'IdO, la convergence, le nuage et plus. Une des choses passionnantes sur notre communauté c'est qu'il y a tellement de chevauchement entre ces thèmes pour pouvoir faire des deux pistes qu'elles soient intéressantes pour tout le monde.
 
 <!-- lang: EN
 All in all, the idea is to provide a space to showcase, learn about and discuss the latest Ubuntu technologies, but also to focus on new and vibrant parts of the community and talk about the challenges (and opportunities!) we are facing as a project.
@@ -79,7 +79,7 @@ Dans l'ensemble, l'idée est de fournir un espace pour mettre en valeur, apprend
 In addition to the support and guidance from the Community Council, the true heroes of the story are [Richard Gaskin][5], [Nathan Haines][6] and the Ubuntu California LoCo. Through the years, they have been the engines behind the UbuCon at SCALE in LA, and this time around they were quick again to jump and drive the Summit wagon too.
 -->
 
-En plus du support et des conseils du Conseil de la Communauté, les vrais héros de l'histoire sont [Richard Gaskin][5], [Nathan Haines][6] et de la LoCo Ubuntu de Californie. Au fil des ans, ils ont été les moteurs derrière l'UbuCon à SCALE à Los Angeles, et cette fois ils ont été également de nouveau rapides à sauter et à conduire le wagon du Sommet.
+En plus du support et des conseils du Conseil de la Communauté, les vrais héros de l'histoire sont [Richard Gaskin][5], [Nathan Haines][6] et de la LoCo Ubuntu de Californie. Au fil des ans, ils ont été les moteurs derrière l'UbuCon à SCALE à Los Angeles, et cette fois ils ont été également de nouveau rapides à sauter sur le wagon du Sommet et le conduire.
 
 <!-- lang: EN
 This wouldn’t have been possible without the SCALE team either: an excellent host to UbuCon in the past and again on this occasion. In particular [Gareth Greenaway][7] and [Ilan Rabinovitch][8], who are helping us with the logistics and organization all along the way. If you are joining the Summit, I very much recommend to stay for SCALE as well!
@@ -97,7 +97,7 @@ Cela n'aurait pas été possible sans l'équipe de SCALE soit : un excellent hô
 On the next few weeks we’ll be sharing more details about the Summit, revamping the global [UbuCon site][9] and updating the [SCALE schedule][10] with all relevant information.
 -->
 
-Dans les prochaines semaines, nous partagerons plus de détails sur le Sommet, la refonte globlae du [site UbuCon][9] et les mise à jour du [programme SCALE][10] avec toutes les informations pertinentes.
+Dans les prochaines semaines, nous partagerons plus de détails sur le Sommet, la refonte globlae du [site UbuCon][9] et les mises à jour du [programme SCALE][10] avec toutes les informations pertinentes.
 
 <!--
 Stay tuned for more, including the session about the UbuCon Summit at the [next Ubuntu Online Summit in two weeks][11].
