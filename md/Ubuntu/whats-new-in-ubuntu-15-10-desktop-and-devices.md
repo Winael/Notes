@@ -12,19 +12,27 @@ viewport: 'width=device-width, initial-scale=1'
 
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-
-What’s new in Ubuntu 15.10: desktop and devices
-
-By Canonical on 22 October 2015
-
-
+<!-- lang: EN
 The desktop edition of Ubuntu 15.10 will be available for download from today – 22nd October – with the latest developer tools and freshest desktop interface, with a preview of the converged phone, desktop and tablet experience that has been making waves in the tech community.
+-->
 
-Ubuntu Converged Devices Representation
-Over-the-air updates to Ubuntu Phone
+L'édition 15.10 d'Ubuntu pour ordinateur de bureau sera disponible en téléchargement à partir d'aujourd'hui - 22 Octobre - avec les derniers outils de développement et l'interface de bureau la plus fraîche, avec un aperçu de l'expérience de convergence du téléphone, du bureau et de la tablette qui a fait des vagues dans la communauté technologique.
 
+![Ubuntu Converged Devices Representation][1]
+
+<!-- lang: EN
+# Over-the-air updates to Ubuntu Phone
+-->
+
+# Mise à jours par les airs du téléphone Ubuntu
+
+<!-- lang: EN
 Users of the Ubuntu Phone will automatically receive all features of Ubuntu 15.10, demonstrating for the first time the integration of Ubuntu’s famous flow of updates to this new ecosystem. Some elements of 15.10 have already been delivered to phone users.
-Developer experience for Ubuntu Core and the Internet of Things
+-->
+
+Les utilisateurs de téléphones Ubuntu recevront automatiquement toutes les fonctionnalités d'Ubuntu 15.10, démontrant pour la première fois l'intégration du fameux flux de mises à jour d'Ubuntu de ce nouvel écosystème. Certains éléments de la version 15.10 ont déjà été livrés aux utilisateurs d'Ubuntuphones.
+
+# Developer experience for Ubuntu Core and the Internet of Things
 
 Ubuntu Core is a tiny rendition of Ubuntu that uses a transactional update and rollback system for apps and the the OS itself. This release of Ubuntu includes the latest version of Snapcraft,  the developer tool that makes it easy to create a “snap” for Ubuntu Core.
 
@@ -42,4 +50,5 @@ Ubuntu Kylin users in China will benefit from all of the improvements in 15.10, 
 
 Ubuntu 15.10 will be available to download from http://www.ubuntu.com/download
 
+[1]: https://insights.ubuntu.com/wp-content/uploads/bf98/Ubuntu-Converged-Devices-Representation.png
 http://insights.ubuntu.com/2015/10/22/whats-new-in-ubuntu-15-10-desktop-and-devices/
