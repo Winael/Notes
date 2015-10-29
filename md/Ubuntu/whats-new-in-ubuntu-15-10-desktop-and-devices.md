@@ -1,7 +1,7 @@
 ---
 file: whats-new-in-ubuntu-15-10-desktop-and-devices.md
 title: "Quoi de neuf sur Uuntu 15.10 : Ordinateur de bureau et dispositifs"
-description: Traduction du billet "What's new in Ubuntu 15.10: Desktop and Devices" paru sur Ubuntu Insights
+description: "Traduction du billet What's new in Ubuntu 15.10: Desktop and Devices paru sur Ubuntu Insights"
 author: Canonical
 translation: Winael
 date: 2015-10-29
