@@ -50,9 +50,12 @@ Puis nous allons activer le mode debug sur le téléphone. Sur le téléphone se
 <!-- EN -->
 Then we have to activate the debug mode on the phone. Go to:
 
-``Paramètre Système`` 
-  └ ``A propos de ce téléphone`` 
-      └``Mode développeur`` 
+<!-- lang: FR
+``Paramètre Système`` &#8594; ``A propos de ce téléphone``  &#8594; ``Mode développeur``  
+-->
+
+<!-- lang: EN -->
+``System settings`` &#8594; ``About this phone`` &#8594; ``Developer Mode``
 
 <!-- lang: FR
 et activer le mode developpeur.
@@ -66,11 +69,36 @@ and activate the developer mode.
 ![Go to dev mode][3]
 ![Activate dev mode][4]
 
-Paramétrage du MTP
+<!-- lang: FR
+# Paramétrage du MTP
+-->
 
+<!-- lang: EN -->
+# Setting up the MTP
+
+<!-- lang: FR
 Tout d'abord, nous sommes de nombreux Insiders a avoir constaté que le téléphone de Meizu était mal reconnu par notre OS favoris. Impossible de monter le téléphone en Mass Storage, donc d'y transférer des fichiers par USB, dont nos clés SSH, ni même de le piloter via adb.
+-->
+
+<!-- lang: EN -->
+First, we are many Insiders have found that the Meizu phone was poorly recognized by our favorite OS. Unable to mount the phone in mass storage mode, and so imposible to transfer files via USB to it, as our SSH keys, or even control it via adb.
+
+<!-- lang: FR
 Dans ce cas, la première des choses à faire est d'interroger lsusb
+-->
+
+<!-- lang: EN -->
+In this case, the first thing to do, is to interrogate ``lsusb``:
+
+<!-- lang: FR
 Téléphone non branché :
+-->
+
+<!-- lang: EN -->
+With an unconnect phone :
+
+<!-- Codeblock, do not translate -->
+```sh
 $ lsusb  
 Bus 002 Device 003: ID 058f:6364 Alcor Micro Corp. AU6477 Card Reader Controller  
 Bus 002 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub  
@@ -85,6 +113,8 @@ Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
 Bus 004 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub  
 Bus 003 Device 002: ID 03f0:8711 Hewlett-Packard Deskjet 2050 J510  
 Bus 003 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+```
+
 Téléphone branché :
 $ lsusb
 Bus 002 Device 003: ID 058f:6364 Alcor Micro Corp. AU6477 Card Reader Controller
