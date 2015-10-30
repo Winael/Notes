@@ -282,11 +282,11 @@ But the best, it's to be able to do it wireless. Well, it is possible, thanks to
 ## Keys exchange
 
 <!-- lang: FR
-Afin de sécurisé la connexion en ligne de commande entre les appareils mobiles tournant sur Ubuntu et les postes de travail, il est conseillé d'utliser phablet-shell, la commande issue des phablet-tools permettant de mettre en place une connexion SSH entre les appareils. Au premier lancement, phablet-shell va gérer l"échange de clé, puis se connecter en SSH sur l'appareil mobile
+Afin de sécuriser la connexion en ligne de commande entre les appareils mobiles tournant sur Ubuntu et les postes de travail, il est conseillé d'utliser phablet-shell, la commande issue des phablet-tools permettant de mettre en place une connexion SSH entre les appareils. Au premier lancement, phablet-shell va gérer l'échange de clé, puis se connecter en SSH sur l'appareil mobile
 -->
 
 <!-- lang: EN -->
-To securise the connexion with command line between devices running on Ubuntu and the desktop, 
+To secure the connection from the command line between mobile devices running Ubuntu the workstations, it is recommended to use ``phablet-shell``, one of the tools that come from ``phablet-tools`` that allows to establish a SSH connection between devices. During the first launch, ``phablet-shell`` will handle the keys exchange, then connect via SSH on the mobile device 
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -301,9 +301,22 @@ Last login: Sun Jun 28 14:44:03 2015 from localhost.localdomain
 phablet@ubuntu-phablet:~$
 ```
 
+<!-- lang: FR
 ## Fixation de l'adresse IP
+-->
 
+<!-- lang: EN -->
+## Fixing IP adress
+
+<!-- lang: EN -->
+Now it is recommanded to fix the IP Adress to always use the same adress on a specific network.
+
+<!-- lang: FR
 Depuis l'appareil mobile Meizu MX4 Ubuntu Edition on liste l'IP courante pour le téléphone
+-->
+
+<!-- lang: EN -->
+From de Meizu MX4 Ubuntu Edition mobile device, we list all the current IP for the phone:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -318,7 +331,12 @@ $ sudo -i
        valid_lft forever preferred_lft forever
 ```
 
+<!-- lang: FR
 On se rend dans le répertoire ``/etc/NetworkManager`` et on regarde le contenu du paramétrage de sa connexion :
+-->
+
+<!-- lang: EN -->
+We have to go to the ``/etc/NetworkManager`` directory and take a look at the content of our connection settingd
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -327,9 +345,22 @@ On se rend dans le répertoire ``/etc/NetworkManager`` et on regarde le contenu 
 # cat 
 ```
 
+<!-- lang: FR
 On édite ensuite la connexion :
+-->
 
-On affiche d'abord la liste des connexions paramétrées
+<!-- lang: EN -->
+We edit the connection:
+
+<!-- lang: FR
+- On affiche d'abord la liste des connexions paramétrées
+-->
+
+<!-- lang: EN -->
+First, we list all the connections set up
+
+<!-- Codeblock, do not translate -->
+```sh
 # nmcli connection show
 NAME                       UUID                                  TYPE             DEVICE 
 Livebox-Navijobard         0c0a0040-ee0b-494c-a297-c5bfc2c1133c  802-11-wireless  wlan0  
@@ -338,6 +369,8 @@ NUMA Welcome               aafc220a-c594-44a4-9095-483fccddbbc6  802-11-wireless
 Nexus 5 Network            b7801b53-637f-4dde-a250-3479184ab3d7  bluetooth        --     
 /208150004998871/context1  9e611658-b475-7c4e-954b-edc06b75ab87  gsm              ril_0  
 NUMA Inside                baf064d2-588c-40aa-a291-1efb8779ec3a  802-11-wireless  --     
+```
+
 On édite la connexion qui nous interesse
 # nmcli connection edit Livebox-Navijobard
 
