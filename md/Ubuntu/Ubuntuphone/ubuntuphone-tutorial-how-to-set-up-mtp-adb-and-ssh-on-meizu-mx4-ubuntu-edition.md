@@ -195,23 +195,68 @@ Normalement, en branchant votre Meizu MX 4 Ubuntu Edition, vous devriez le voir 
 <!-- lang: EN -->
 Normally, by plugging your Meizu MX4 Ubuntu Edition, you should see it mounted automatically.
 
-# Configuration de adb
+<!-- lang: FR
+# Configuration d'adb
+-->
 
+<!-- lang: EN -->
+# Setting up ``adb``
+
+<!-- lang: FR
 Il est possible de piloter le Meizu MX4 Ubuntu Edition via adb (Android Debug Bridge). Pour le configurer, il suffit d'ajouter l'idVendor dans le fichier $HOME/.android/adb_usb.ini.
+-->
+
+<!-- lang: EN -->
+It's possible to drive the Meizu MX4 Ubuntu Edition through ``adb`` (Android Debug Bridge). To set it up, you just have to add the idVendor in the file ``$HOME/.android/adb_usb.ini``.
+
+<!-- Codeblock, do not translate -->
+```sh
 $ mkdir $HOME/.android
 $ echo "0x2a45" &gt;&gt; $HOME/.android/adb_usb.ini
+```
+
+<!-- lang: FR
 Puis on redemarre le service adb :
+-->
+
+<!-- lang: EN -->
+Then we restart the ``adb`` service:
+
+<!-- Codeblock, do not translate -->
+```sh
 $ adb kill-server
+```
+
+<!-- lang: FR
 Le téléphone Meizu MX4 Ubuntu Edition est maintenant reconnu lorsque l'on tape la commande :
+-->
+
+<!-- lang: EN -->
+The phone Meizu MX4 Ubuntu Edition is now known when we run the command:
+
+<!-- Codeblock, do not translate -->
+```sh
 $ adb devices
 * daemon not running. starting it now on port 5037 *
 * daemon started successfully *
 List of devices attached 
 75HACL66VJ8X    device
+```
+
+<!-- lang: FR
 Pour accéder au téléphone, il suffit de taper :
+-->
+
+<!-- lang: EN -->
+To access to your device, you just have to run:
+
+<!-- Codeblock, do not translate -->
+```sh
 $ adb shell
 phablet@ubuntu-phablet:~$
-Configuration de SSH
+```
+
+# Configuration de SSH
 
 Pouvoir monter son téléphone comme une unité de stockage amovible, c'est bien.
 Pouvoir piloter son téléphone en ligne de commande, c'est mieux.
