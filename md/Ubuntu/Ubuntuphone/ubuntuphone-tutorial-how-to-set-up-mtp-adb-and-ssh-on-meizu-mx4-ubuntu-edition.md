@@ -182,14 +182,20 @@ Then we have to change the udev rules that support MTP found in the file ``/lib/
 
 <!-- Codeblock, do not translate -->
 ```sh
-$ sudo bash -c 'cat &lt;&lt; EOF &gt;&gt; /etc/udev/rules.d/69-libmtp.rules
+$ sudo bash -c 'cat << EOF >> /etc/udev/rules.d/69-libmtp.rules
 # Meizu MX4
 ATTR{idVendor}=="2a45", ATTR{idProduct}=="0c02", SYMLINK+="MeizuMX4Ubuntu", ENV{ID_MTP_DEVICE}="1", ENV{ID_MEDIA_PLAYER}="1"
 EOF'
 ```
 
+<!-- lang: FR
 Normalement, en branchant votre Meizu MX 4 Ubuntu Edition, vous devriez le voir monté automatiquement.
-Configuration de adb
+-->
+
+<!-- lang: EN -->
+Normally, by plugging your Meizu MX4 Ubuntu Edition, you should see it mounted automatically.
+
+# Configuration de adb
 
 Il est possible de piloter le Meizu MX4 Ubuntu Edition via adb (Android Debug Bridge). Pour le configurer, il suffit d'ajouter l'idVendor dans le fichier $HOME/.android/adb_usb.ini.
 $ mkdir $HOME/.android
