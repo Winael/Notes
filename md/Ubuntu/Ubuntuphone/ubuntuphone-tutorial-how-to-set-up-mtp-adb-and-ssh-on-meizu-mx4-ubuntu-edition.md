@@ -173,11 +173,21 @@ FUSE can allow another user to mount root a third party filesystem. This require
 $ sudo sed -i 's/#user_allow_other/user_allow_other/' /etc/fuse.conf
 ```
 
-Ensuite, nous devons modifier les règle udev en charge du MTP qui se trouvent dans le fichier /lib/udev/rules.d/69-libmtp.rules pour y déclarer le Meizu :
+<!-- lang: FR
+Ensuite, nous devons modifier les règle udev en charge du MTP qui se trouvent dans le fichier ``/lib/udev/rules.d/69-libmtp.rules`` pour y déclarer le Meizu :
+-->
+
+<!-- lang: EN -->
+Then we have to change the udev rules that support MTP found in the file ``/lib/udev/rules.d/ 69-libmtp.rules`` order to declare the Meizu:
+
+<!-- Codeblock, do not translate -->
+```sh
 $ sudo bash -c 'cat &lt;&lt; EOF &gt;&gt; /etc/udev/rules.d/69-libmtp.rules
 # Meizu MX4
 ATTR{idVendor}=="2a45", ATTR{idProduct}=="0c02", SYMLINK+="MeizuMX4Ubuntu", ENV{ID_MTP_DEVICE}="1", ENV{ID_MEDIA_PLAYER}="1"
 EOF'
+```
+
 Normalement, en branchant votre Meizu MX 4 Ubuntu Edition, vous devriez le voir monté automatiquement.
 Configuration de adb
 
