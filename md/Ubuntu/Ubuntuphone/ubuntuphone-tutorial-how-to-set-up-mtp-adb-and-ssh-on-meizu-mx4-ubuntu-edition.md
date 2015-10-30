@@ -207,7 +207,7 @@ Il est possible de piloter le Meizu MX4 Ubuntu Edition via adb (Android Debug Br
 -->
 
 <!-- lang: EN -->
-It's possible to drive the Meizu MX4 Ubuntu Edition through ``adb`` (Android Debug Bridge). To set it up, you just have to add the idVendor in the file ``$HOME/.android/adb_usb.ini``.
+It's possible to drive the Meizu MX4 Ubuntu Edition through ``adb`` (Android Debug Bridge). To set it up, you just have to add the ``idVendor`` in the file ``$HOME/.android/adb_usb.ini``.
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -256,14 +256,40 @@ $ adb shell
 phablet@ubuntu-phablet:~$
 ```
 
+<!-- lang: FR
 # Configuration de SSH
+-->
 
+<!-- lang: EN -->
+# Setting up SSH
+
+<!-- lang: FR
 Pouvoir monter son téléphone comme une unité de stockage amovible, c'est bien.
 Pouvoir piloter son téléphone en ligne de commande, c'est mieux.
 Mais ce qui serait top c'est de pouvoir le faire sans fil, sans avoir à sortir le téléphone de sa poche. Et bien c'est possible de le faire, grâce au WiFi au travers de son réseau local.
-L'échange de clés
+-->
 
+<!-- lang: EN -->
+Being able to mount our phone as a removable storage drive unit is good.
+Being able to manage our phone with command line is better.
+But the best, it's to be able to do it wireless. Well, it is possible, thanks to WiFi through our local network.
+
+<!-- lang: FR
+## L'échange de clés
+-->
+
+<!-- lang: EN -->
+## Keys exchange
+
+<!-- lang: FR
 Afin de sécurisé la connexion en ligne de commande entre les appareils mobiles tournant sur Ubuntu et les postes de travail, il est conseillé d'utliser phablet-shell, la commande issue des phablet-tools permettant de mettre en place une connexion SSH entre les appareils. Au premier lancement, phablet-shell va gérer l"échange de clé, puis se connecter en SSH sur l'appareil mobile
+-->
+
+<!-- lang: EN -->
+To securise the connexion with command line between devices running on Ubuntu and the desktop, 
+
+<!-- Codeblock, do not translate -->
+```sh
 $ phablet-shell 
 /home/winael/.ssh/known_hosts updated.
 Original contents retained as /home/winael/.ssh/known_hosts.old
@@ -273,9 +299,14 @@ Welcome to Ubuntu 15.04 (GNU/Linux 3.10.35+ armv7l)
  * Documentation:  https://help.ubuntu.com/
 Last login: Sun Jun 28 14:44:03 2015 from localhost.localdomain
 phablet@ubuntu-phablet:~$
-Fixation de l'adresse IP
+```
+
+## Fixation de l'adresse IP
 
 Depuis l'appareil mobile Meizu MX4 Ubuntu Edition on liste l'IP courante pour le téléphone
+
+<!-- Codeblock, do not translate -->
+```sh
 $ sudo -i
 [sudo] password for phablet: 
 # ip addr show wlan0
@@ -285,12 +316,19 @@ $ sudo -i
        valid_lft 82074sec preferred_lft 82074sec
     inet6 fe80::3abc:1aff:fe1f:7eb4/64 scope link 
        valid_lft forever preferred_lft forever
+```
 
-On se rend dans le répertoire /etc/NetworkManager et on regarde le contenu du paramétrage de sa connexion :
+On se rend dans le répertoire ``/etc/NetworkManager`` et on regarde le contenu du paramétrage de sa connexion :
+
+<!-- Codeblock, do not translate -->
+```sh
 # cd /etc/NetworkManager/system-connections
 # ls
 # cat 
+```
+
 On édite ensuite la connexion :
+
 On affiche d'abord la liste des connexions paramétrées
 # nmcli connection show
 NAME                       UUID                                  TYPE             DEVICE 
