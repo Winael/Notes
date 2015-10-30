@@ -95,7 +95,7 @@ Téléphone non branché :
 -->
 
 <!-- lang: EN -->
-With an unconnect phone :
+With an unconnected phone:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -115,7 +115,15 @@ Bus 003 Device 002: ID 03f0:8711 Hewlett-Packard Deskjet 2050 J510
 Bus 003 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
 ```
 
+<!-- lang: FR
 Téléphone branché :
+-->
+
+<!-- lang: EN -->
+With a conneted phone:
+
+<!-- Codeblock, do not translate -->
+```sh
 $ lsusb
 Bus 002 Device 003: ID 058f:6364 Alcor Micro Corp. AU6477 Card Reader Controller
 Bus 002 Device 004: ID 2a45:0c02 
@@ -131,12 +139,40 @@ Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
 Bus 004 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
 Bus 003 Device 002: ID 03f0:8711 Hewlett-Packard Deskjet 2050 J510
 Bus 003 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+```
+
+<!-- lang: FR
 On peut raisonnablement penser que la ligne Bus 002 Device 004: ID 2a45:0c02 corresponde à notre appareil.
-Mettons de côté de l'ID du fabricant et ID du modèle respectivement dans les variables VENDORID et MODELID:
+-->
+
+<!-- lang: EN -->
+It is reasonable to think that the line ``Bus 002 Device 004: ID 2a45: 0c02`` match our device.
+
+<!-- lang: FR
+Mettons de côté de l'ID du fabricant et ID du modèle respectivement dans les variables ``VENDORID`` et ``MODELID``:
+-->
+
+<!-- lang: EN -->
+Let's put aside the manufacturer's ID and Model ID respectively in the variables ``VENDORID`` and ``MODELID``:
+
+<!-- Codeblock, do not translate -->
+```sh
 $ export VENDORID="2a45"
 $ export MODELID="0c02"
-FUSE peut permettre à un autre utilisateur que root de monter un système de fichier tiers. Pour cela il faut décommenter la ligne user_allow_otherdans le fichier /etc/fuse.conf:
+```
+
+<!-- lang: FR
+FUSE peut permettre à un autre utilisateur que root de monter un système de fichier tiers. Pour cela il faut décommenter la ligne ``user_allow_other`` dans le fichier ``/etc/fuse.conf`` :
+-->
+
+<!-- lang: EN -->
+FUSE can allow another user to mount root a third party filesystem. This requires to uncomment the line ``user_allow_other`` in the file ``/etc/fuse.conf``:
+
+<!-- Codeblock, do not translate -->
+```sh
 $ sudo sed -i 's/#user_allow_other/user_allow_other/' /etc/fuse.conf
+```
+
 Ensuite, nous devons modifier les règle udev en charge du MTP qui se trouvent dans le fichier /lib/udev/rules.d/69-libmtp.rules pour y déclarer le Meizu :
 $ sudo bash -c 'cat &lt;&lt; EOF &gt;&gt; /etc/udev/rules.d/69-libmtp.rules
 # Meizu MX4
