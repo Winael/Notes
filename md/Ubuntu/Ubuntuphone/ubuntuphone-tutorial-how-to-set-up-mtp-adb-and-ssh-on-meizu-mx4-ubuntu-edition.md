@@ -357,7 +357,7 @@ We edit the connection:
 -->
 
 <!-- lang: EN -->
-First, we list all the connections set up
+- First, we list all the connections set up
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -371,7 +371,15 @@ Nexus 5 Network            b7801b53-637f-4dde-a250-3479184ab3d7  bluetooth      
 NUMA Inside                baf064d2-588c-40aa-a291-1efb8779ec3a  802-11-wireless  --     
 ```
 
-On édite la connexion qui nous interesse
+<!-- lang: FR
+- On édite la connexion qui nous interesse
+-->
+
+<!-- lang: EN -->
+- We edit the connections that interesterd us
+
+<!-- Codeblock, do not translate -->
+```sh
 # nmcli connection edit Livebox-Navijobard
 
 ===| nmcli interactive connection editor |===
@@ -382,8 +390,18 @@ Type 'help' or '?' for available commands.
 Type 'describe [.]' for detailed property description.
 
 You may edit the following settings: connection, 802-11-wireless (wifi), 802-11-wireless-security (wifi-sec), 802-1x, ipv4, ipv6
-On affiche la configuration actuelle
-nmcli&gt; print
+```
+
+<!-- lang: FR
+- On affiche la configuration actuelle
+-->
+
+<!-- lang: EN -->
+- We print the actual configuration
+
+<!-- Codeblock, do not translate -->
+```sh 
+nmcli> print
 ===============================================================================
                 Connection profile details (Livebox-Navijobard)
 ===============================================================================
@@ -459,25 +477,116 @@ ipv6.may-fail:                          yes
 ipv6.ip6-privacy:                       -1 (unknown)
 ipv6.dhcp-hostname:                     --
 -------------------------------------------------------------------------------
-On se rend dans la configuration ipv4
-nmcli&gt; goto ipv4
+```
+
+<!-- lang: FR
+- On se rend dans la configuration ipv4
+-->
+
+<!-- lang: EN -->
+- We have to set the IPv4 configuration
+
+<!-- Codeblock, do not translate -->
+```sh
+nmcli> goto ipv4
 You may edit the following properties: method, dns, dns-search, addresses, address-labels, routes, ignore-auto-routes, ignore-auto-dns, dhcp-client-id, dhcp-send-hostname, dhcp-hostname, never-default, may-fail
-On passe la configuration IPv4 en manuelle
-nmcli ipv4&gt; set method manual
+```
+
+<!-- lang: FR
+- On passe la configuration IPv4 en manuelle
+-->
+
+<!-- lang: EN -->
+- We swith the IPv4 configuration to manual
+
+<!-- Codeblock, do not translate -->
+```sh
+nmcli ipv4> set method manual
+```
+
+<!-- lang: FR
 On modifie l'adresse IP, le masque et la passerelle
-nmcli ipv4&gt; set addresses 192.168.1.101/24 192.168.1.255
+-->
+
+<!-- lang: EN -->
+- We modify the adress IP, the mask and the gateway
+
+<!-- Codeblock, do not translate -->
+```sh
+nmcli ipv4> set addresses 192.168.1.101/24 192.168.1.255
+```
+
+<!-- lang: FR
 On modifie l'adresse DNS
-nmcli ipv4&gt; set dns 8.8.8.8
+-->
+
+<!-- lang: EN -->
+- We modify the DNS adress
+
+<!-- Codeblock, do not translate -->
+```sh
+nmcli ipv4> set dns 8.8.8.8 8.8.4.4
+```
+
+<!-- lang: FR
 On sort de la configuration de l'IPv4
-nmcli ipv4&gt; back
+-->
+
+<!-- lang: EN -->
+
+- We get out from the IPv4 configuration
+
+<!-- Codeblock, do not translate -->
+```sh
+nmcli ipv4> back
+```
+
+<!-- lang: FR
 On active la connexion automatique
-nmcli&gt; set connection.autoconnect TRUE
+-->
+
+<!-- lang: EN -->
+We activate the automatic connetion
+
+<!-- Codeblock, do not translate -->
+```sh
+nmcli> set connection.autoconnect TRUE
+```
+
+<!-- lang: FR
 On affiche la nouvelle configuration
+-->
+
+<!-- lang: EN -->
+- We print the new settings
+
+<!-- Codeblock, do not translate -->
+```sh
 nmcli&gt; print
+```
+
+<!-- lang: FR
 On sauvegarde et on quitte
+-->
+
+<!-- lang: EN -->
+- On sauvegarde et on quitte
+
+<!-- Codeblock, do not translate -->
+```sh
 nmcli&gt; save
 nmcli&gt; quit
+```
+
+<!-- lang: FR
 On redemarre le téléphone puis on regarde son adresse ip
+-->
+
+<!-- lang: EN -->
+We rebbot the phone and take a look on its IP
+
+<!-- Codeblock, do not translate -->
+```sh
 phablet@ubuntu-phablet:~$ ifconfig
 ccmni0    Link encap:Ethernet  HWaddr fe:3f:26:a0:08:56  
           inet addr:10.163.45.115  Mask:255.255.255.0
@@ -504,12 +613,33 @@ wlan0     Link encap:Ethernet  HWaddr 38:bc:1a:1f:7e:b4
           TX packets:8 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:1000 
           RX bytes:718 (718.0 B)  TX bytes:692 (692.0 B)
+```
+
+<!-- lang: FR
 L'adresse IP est bien paramétrée avec l'adresse que nous avons fixée
 Il ne nous reste plus qu'à paramétrer le serveur DNS de notre box internet ou dans le fichier /etc/hosts
 Ensuite nous pouvons faire :
+-->
+
+<!-- lang: EN -->
+
+The IP adress is set up with the IP adress that we fixed
+Now, we have just to setup the DNS resolution of our Internet box ot in file ``/etc/hosts` on Desktop
+Then we can just connect to the phone with the command
+
+<!-- Codeblock, do not translate -->
+```sh
 $ ssh phablet@mx4ubuntu
+```
+
+<!-- lang: FR
 pour vous connecter en ligne de commande ou ajouter un signet vers sftp://phablet@mx4ubuntu:/home/phablet dansnautilus pour "monter" votre téléphone grâce au WiFi et vous simplifier la vie pour les transferts de fichiers
 A bientôt pour d'autres astuces !!!
+-->
+
+<!-- lang: EN -->
+You and add a bookmark to ``sftp://phablet@mx4ubuntu:/home/phablet`` in ``nautilus`` to mount your phone according to the WiFi. It will simplify your life for file transfering.
+See you soon for more tips!!!
 
 [1]: http://2.bp.blogspot.com/-nEhpcaF9gQQ/VjNfOCkYTXI/AAAAAAAA9gY/SaMZQJ74PxA/s320/screenshot20150705_011856396.png
 [2]: http://2.bp.blogspot.com/-4jLiHztMuXc/VjNfOHmYJoI/AAAAAAAA9gc/-f10RfzONno/s320/screenshot20150705_012125728.png
