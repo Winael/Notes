@@ -94,9 +94,9 @@ Les bits les plus important concernant la convergence sont arrivés avec l'image
 -->
 
 <!-- lang: FR -->
-<div lang="french">
+<span lang="french">
 **NOTE :** Je n'ai pas eu beaucoup de chanve en essayant autre chose que la connexion du SlimPort vers l'HDMI, et surtout pas en essayant de convertir le signal HDMI vers autre chose en utilisant un deuxième adaptateur (ex: du SlimPort vers l'HDMI, puis de l'HDMI vers le DVI). Si vous souhaitez faire une démo de la convergence quelque part, assurez vous que l'écran/projecteur à l'HDMI et qu'il fonctionne avec votre appareil.
-</div>
+</span>
 
 ## Setting it up
 
