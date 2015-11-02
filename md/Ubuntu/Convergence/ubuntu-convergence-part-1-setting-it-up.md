@@ -66,10 +66,10 @@ I am using the following parts:
 <div lang="french">
 J'utilise les élements suivants :
 
-* 1 Smartphone Google Nexus 4 16Go
-* 1 Adaptateur Slimport to HDMI, avec Micro-USB pour alimenter simultanément le smartphone
-* 1 Clavier Bluetooth Logitech K380
-* 1 Souris Bluetooth Optique Logitech M557
+* 1 Smartphone Google Nexus 4 16Go  
+* 1 Adaptateur Slimport to HDMI, avec Micro-USB pour alimenter simultanément le smartphone  
+* 1 Clavier Bluetooth Logitech K380  
+* 1 Souris Bluetooth Optique Logitech M557  
 </div>
 
 <!-- lang: EN
