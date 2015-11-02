@@ -63,7 +63,7 @@ I am using the following parts:
 -->
 
 <!-- lang: FR -->
-<div lang="french">
+<span lang="french">
 J'utilise les élements suivants :
 
 - 1 Smartphone Google Nexus 4 16Go  
@@ -73,7 +73,7 @@ J'utilise les élements suivants :
 - 1 Clavier Bluetooth Logitech K380  
  
 - 1 Souris Bluetooth Optique Logitech M557  
-</div>
+</span>
 
 <!-- lang: EN
 <div lang="english">
@@ -82,9 +82,9 @@ The most important convergence bits landed with image r273 of the `ubuntu-touch/
 -->
 
 <!-- lang FR -->
-<div lang="french">
+<span lang="french">
 Les bits les plus important concernant la convergence sont arrivés avec l'image r273 du canal `ubuntu-touch/rc-proposed/ubuntu`. Au moment où j'écris ces lignes, mon téléphone tourne avec l'image r276 du même canal.
-</div>
+</span>
 
 
 <!-- lang: EN
