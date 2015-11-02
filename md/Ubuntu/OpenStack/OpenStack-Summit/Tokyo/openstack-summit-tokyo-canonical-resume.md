@@ -57,7 +57,7 @@ Everything happening at OpenStack Summit this week is pushing toward ease of use
 
 If you haven’t had a chance to try out Ubuntu OpenStack yet, or want some help getting going, you should consider BootStack, an inexpensive, privately managed OpenStack solution. Check it out here.
 
-**sources :** [_OpenStack Summit Tokyo: Day One_][31], [_OpenStack Summit Tokyo: Day Two_][32] et [_OpenStack Summit Tokyo: Day Three][33] sur [Ubuntu Insights][34] 
+**sources :** [_OpenStack Summit Tokyo: Day One_][31], [_OpenStack Summit Tokyo: Day Two_][32] et [_OpenStack Summit Tokyo: Day Three_][33] sur [Ubuntu Insights][34] 
 
 [1]: https://insights.ubuntu.com/wp-content/uploads/f67e/20151027_172000.png
 [20]: https://insights.ubuntu.com/wp-content/uploads/20dd/OpenStack-Summit-Tokyo-2015-Canonical-Booth800.jpg
