@@ -42,17 +42,14 @@ Mon bon vieux bureau « plan de travail »  à la maison. A gauche le Nexus 4 co
 </div>
 
 <!-- lang: EN
-<div lang="english">
-## Necessary hard- and software
-</div>
+## <span lang="english">Necessary hard- and software</span>
 -->
 
 <!-- lang: FR -->
-<div lang="french">
-## Matériel et logiciels nécessaires
-</div>
+## <span lang="french">Matériel et logiciels nécessaires</span>
 
 <!-- lang: EN
+<div lang="english">
 I am using the following parts:
 
 * Nexus 4 16 GB
@@ -62,20 +59,41 @@ I am using the following parts:
 * Logitech K380 Bluetooth keyboard
 
 * Logitech M557 Optical Bluetooth mouse
+</div>
 -->
 
 <!-- lang: FR -->
+<div lang="french">
 J'utilise les élements suivants :
 
 * 1 Smartphone Google Nexus 4 16Go
 * 1 Adaptateur Slimport to HDMI, avec Micro-USB pour alimenter simultanément le smartphone
 * 1 Clavier Bluetooth Logitech K380
 * 1 Souris Bluetooth Optique Logitech M557
+</div>
 
+<!-- lang: EN
+<div lang="english">
 The most important convergence bits landed with image r273 of the `ubuntu-touch/rc-proposed/ubuntu` channel. At the time of writing my phone is running image r276 of the same channel.
+</div>
+-->
 
+<!-- lang FR -->
+<div lang="french">
+Les bits les plus important concernant la convergence sont arrivés avec l'image r273 du canal `ubuntu-touch/rc-proposed/ubuntu`. Au moment où j'écris ces lignes, mon téléphone tourne avec l'image r276 du même canal.
+</div>
+
+
+<!-- lang: EN
+<div lang="english">
 **NOTE**: I haven't had much luck with anything else than SlimPort to HDMI, especially not when trying to convert the HDMI signal to something else using a second adapter (e.g. Slimport to HDMI and then HDMI to DVI). If you're going to demo Convergence somewhere, make sure the display/projector has HDMI and works with your phone.
+</div>
+-->
 
+<!-- lang: FR -->
+<div lang="french">
+**NOTE :** Je n'ai pas eu beaucoup de chanve en essayant autre chose que la connexion du SlimPort vers l'HDMI, et surtout pas en essayant de convertir le signal HDMI vers autre chose en utilisant un deuxième adaptateur (ex: du SlimPort vers l'HDMI, puis de l'HDMI vers le DVI). Si vous souhaitez faire une démo de la convergence quelque part, assurez vous que l'écran/projecteur à l'HDMI et qu'il fonctionne avec votre appareil.
+</div>
 
 ## Setting it up
 
