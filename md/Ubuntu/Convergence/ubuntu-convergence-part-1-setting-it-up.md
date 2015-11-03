@@ -161,9 +161,11 @@ J'utilise les élements suivants :
 
 <!-- lang: FR -->
 <span lang="french">
+
 ![L'écran externe est détecté et utilisé][3]
 
 ![L'écran de vérrouillage est encore celui de l'interface utilisateur du téléphone][4]
+
 </span>
 
 <!-- lang: EN
@@ -209,9 +211,11 @@ J'utilise les élements suivants :
 
 <!-- lang: FR -->
 <span lang="french">
+
 ![Connexion des dispositifs Bluetooth][5]
 
 ![Détails des dispositifs Bluetooth][6]
+
 </span>
 
 <!-- lang: EN
@@ -287,8 +291,8 @@ J'utilise les élements suivants :
 [3]: https://sturmflut.github.io//images/ubuntu-convergence-part-1/external-connected.jpg
 [4]: https://sturmflut.github.io//images/ubuntu-convergence-part-1/external-phone-lockscreen.jpg
 [5]: https://sturmflut.github.io//images/ubuntu-convergence-part-1/bluetooth1.jpg
-[6]: https://sturmflut.github.io//images/ubuntu-convergence-part-1/bluetooth2.jpg)
-[7]: https://sturmflut.github.io//images/ubuntu-convergence-part-1/desktop-mode-internal.jpg)
+[6]: https://sturmflut.github.io//images/ubuntu-convergence-part-1/bluetooth2.jpg
+[7]: https://sturmflut.github.io//images/ubuntu-convergence-part-1/desktop-mode-internal.jpg
 [8]: https://sturmflut.github.io//images/ubuntu-convergence-part-1/desktop-mode-external.jpg
 [9]: http://sturmflut.github.io/ubuntu/convergence/2015/11/01/ubuntu-convergence-part-1/
 [10]: http://sturmflut.github.io/
