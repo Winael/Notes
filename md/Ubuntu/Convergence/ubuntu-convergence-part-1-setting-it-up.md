@@ -36,7 +36,7 @@ status: translation_WIP
 
 <!-- lang: FR -->
 <span lang="french">
-    ![Plan de travail de bureau avec Convergence paramétrée][1]
+![Plan de travail de bureau avec Convergence paramétrée][1]
 </span>
 
 <!-- lang: EN
@@ -108,15 +108,11 @@ J'utilise les élements suivants :
 </span>
 
 <!-- lang: EN
-<span lang="english">
-## Setting it up
-</span>
+## <span lang="english">Setting it up</span>
 -->
 
 <!-- lang: FR -->
-<span lang="french">
-## Paramétrage
-</span>
+## <span lang="french">Paramétrage</span>
 
 <!-- lang: EN 
 <span lang="english">
@@ -137,7 +133,7 @@ J'utilise les élements suivants :
 
 <!-- lang: FR -->
 <span lang="french">
-    ![Problèmes de connexion à chaud][2]
+![Problèmes de connexion à chaud][2]
 </span>
 
 <!-- lang: EN
@@ -180,15 +176,11 @@ J'utilise les élements suivants :
 </span>
 
 <!-- lang: EN
-<span lang="english">
-## Set up the Bluetooth devices
-</span>
+## <span lang="english">Set up the Bluetooth devices</span>
 -->
 
 <!-- lang: FR -->
-<span lang="french">
-## Paramétrage des dispositifs Bluetooth
-</span>
+## <span lang="french">Paramétrage des dispositifs Bluetooth</span>
 
 <!-- lang: EN
 <span lang="english">
@@ -219,15 +211,11 @@ J'utilise les élements suivants :
 </span>
 
 <!-- lang: EN
-<span lang="english">
-## Finally: Desktop Mode
-</span>
+## <span lang="english">Finally: Desktop Mode</span>
 -->
 
 <!-- lang: FR -->
-<span lang="french">
-## Et pour finir: Le mode bureautique    
-</span>
+## <span lang="french">Et pour finir: Le mode bureautique</span>
 
 <!-- lang: EN
 <span lang="english">
