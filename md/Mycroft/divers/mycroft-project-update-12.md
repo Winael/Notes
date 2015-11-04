@@ -6,7 +6,7 @@ translation: Winael
 date: 2015-10-27
 category: Mycroft
 tags: Mycroft, Unity 7, Unity 8, Ubuntu, phone, desktop, Integration
-status: Review_in_progress
+status: published
 viewport: 'width=device-width, initial-scale=1'
 ---
 
