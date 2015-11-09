@@ -71,13 +71,27 @@ Think about other possibilities for the #InternetOfToys. For Instance, adding mi
 
 <!-- lang: FR -->
 <span lang="french">
-Pensez à d'autres possibilités pour les #InternetDesJouets. Par exemple, l'ajout de microphones et haut-parleurs pour permettre aux jouets de communiquer ou les relier aux réseaux sociaux afin que les jouets deviennent des talkies-walkies sociaux. Reconnaissance vocale dans le nuage serait en outre en mesure de vous permettre d'être le commandant en chef de votre propre armée de jouets. Les caméras peuvent faire de l'évitement d'objet, mais aussi de la reconnaissance d'objets. Votre jouet peut devenir le garde de sécurité de votre château ou chercher les souris pendant que vous n'êtes pas là. La NFC vous permet de configurer facilement le jouet avec votre mobile.
+Pensez à d'autres possibilités pour l' #InternetDesJouets. Par exemple, l'ajout de microphones et haut-parleurs pour permettre aux jouets de communiquer ou les relier aux réseaux sociaux afin que les jouets deviennent des talkies-walkies sociaux. Reconnaissance vocale dans le nuage serait en outre en mesure de vous permettre d'être le commandant en chef de votre propre armée de jouets. Les caméras peuvent faire de l'évitement d'objet, mais aussi de la reconnaissance d'objets. Votre jouet peut devenir le garde de sécurité de votre château ou chercher les souris pendant que vous n'êtes pas là. La NFC vous permet de configurer facilement le jouet avec votre mobile.
 </span>
  
+<center>
+<img class="aligncenter size-full wp-image-26671" src="https://insights.ubuntu.com/wp-content/uploads/c583/ezgif-269044619.gif" alt="ezgif-269044619" width="600" height="337">
+</center>
 
-ezgif-269044619
+<!-- lang: EN
+<span lang="english">
 Take it a step further and use the #InternetOfToys as a cheap experimentation platform. A communicating toy might allow a psychiatrist to bond with a young mental patient faster because they trust their toys. NFC allows payment processing and recharging contactless wallets. Perhaps people are willing to use voice recognition as a way to authorize payment as well. Building voice payments into a POS would be expensive but adding an app to this week’s cool toy and running a voice payment experiment is quite cheap.
+</span>
+-->
 
+<!-- lang: FR -->
+<span lang="french">
+Amenons-le concept un peu plus loin et utilisons l' #InternetDesJouets comme une plate-forme d'expérimentation peu coûteuse. Un jouet communiquant pourrait permettre à un psychiatre de se lier plus rapidement avec un jeune atteint de troubles mentaux car ils font confiance à leurs jouets. La NFC permet le traitement des paiements et la recharge portefeuilles sans contact. Peut-être que les gens sont prêts à aussi utiliser la reconnaissance vocale comme un moyen d'autoriser le paiement. Construire un moyen de paiements par la voix dans un POS serait coûteux, mais en ajoutant une application dans le super joujou de cette semaine et conduire l'expérimentation de paiement par la voix n'est pas cher du tout.
+</span>
+-->
+
+<!-- lang: EN
+<span lang="english">
 So if you are a serious business person then you should look at the #InternetOfToys as a platform to quickly and cheaply test new and innovative ideas and concepts. Your successes can afterwards be introduced and have applicability in the world of the Industrial IoT. For the rest of us we can all have fun and tell the world we are doing some serious work…
 
 
