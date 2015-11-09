@@ -17,7 +17,7 @@ Wouldn’t it be great to play with toys and get paid for it? If this sounds lik
 </span>
 -->
 
-<!-- lang: FR
+<!-- lang: FR -->
 <span lang="french">
 Ne serait-il pas merveilleux de jouer avec des jouets et d'être payé pour cela ? Si cela ressemble à la musique à vos oreilles, alors ce billet est fait pour vous. Si vous êtes un homme d'affaires qui pense que les jouets sont seulement destinés aux enfant, alors vous devriez aussi le lire ! Il est vrai que l'Industrie de l'Internet des Objets (IdO) va générer beaucoup d'argent dans les années à venir mais pour l'instant son adoption est lente. Les innovations les plus intéressantes ne viennent plus de grandes entreprises industrielles mais plutôt des « makers », des startups intelligentes, du financement participatif, etc. Chez Ubuntu, nous voulons en voir plus et nous sommes passionnés par les possibilités qu'offrent ces choses étonnantes, jouets, gadgets ou peu importe comment vous les appelez.
 </span>
