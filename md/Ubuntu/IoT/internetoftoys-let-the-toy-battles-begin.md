@@ -22,7 +22,7 @@ Wouldn’t it be great to play with toys and get paid for it? If this sounds lik
 Ne serait-il pas merveilleux de jouer avec des jouets et d'être payé pour cela ? Si cela ressemble à la musique à vos oreilles, alors ce billet est fait pour vous. Si vous êtes un homme d'affaires qui pense que les jouets sont seulement destinés aux enfant, alors vous devriez aussi le lire ! Il est vrai que l'Industrie de l'Internet des Objets (IdO) va générer beaucoup d'argent dans les années à venir mais pour l'instant son adoption est lente. Les innovations les plus intéressantes ne viennent plus de grandes entreprises industrielles mais plutôt des « makers », des startups intelligentes, du financement participatif, etc. Chez Ubuntu, nous voulons en voir plus et nous sommes passionnés par les possibilités qu'offrent ces choses étonnantes, jouets, gadgets ou peu importe comment vous les appelez.
 </span>
 
-ezgif-634704105
+<center><img class="aligncenter size-full wp-image-26677" src="https://insights.ubuntu.com/wp-content/uploads/b1e1/ezgif-634704105.gif" alt="ezgif-634704105" width="500" height="281"></center>
 
 Smart toys today are rather limited in functionality. At most they have an API, a mobile app or a cloud. Even top of the line smart toys like Lego’s Mindstorms, Sphero’s BB8, Wowwee’s Robosapien X, etc. are still limited to what their manufacturers have envisioned. However, in reality, we all have supercomputers in our pockets that through apps can disrupt taxis, hotels, cinemas, etc. Why can’t we put apps on toys and let our imaginations run wild? That’s exactly why we open sourced snappy Ubuntu Core, to app-enable all type of things and through app stores allow anybody to share their brilliance with the world.
 
