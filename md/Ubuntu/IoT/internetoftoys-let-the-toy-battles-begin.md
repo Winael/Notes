@@ -35,7 +35,16 @@ Smart toys today are rather limited in functionality. At most they have an API, 
 Les jouets intelligents d'aujourd'hui sont plutôt limités en fonctionnalités. Tout au plus, ils ont une API, une application mobile ou une application sur nuage. Même les jouets haut-de-gamme intelligents comme les Lego [Mindstorms][1], les [BB8][2] de Sphéro, les [Robosapien X][3] de Wowwee, etc. sont encore limités à ce que leurs fabricants ont imaginé. Cependant, en réalité, nous avons tous supercalculateurs dans nos poches qui, grâce à des applications peuvent perturber les taxis, les hôtels, ou les cinémas, etc. Pourquoi ne pouvons-nous pas mettre des applications sur les jouets et laissez notre imagination se déchainer ? Voilà exactement pourquoi nous avons ouvert les sources de [Snappy Ubuntu Core][4], afin de permettre d'ouvrir aux applications tout type de choses et qu'à travers leurs magasins d'applications, elles puissent permettre à quiconque de partager leur éclat au monde entier.
 </span>
 
-In the past few weeks, we had several partners show their #InternetOfToys inventions. Erle Robotics showed how their app-enabled spider could be used as a voting machine on questions like “Should robots be allowed to have sex with humans?” during Mark Shuttleworth’s keynote as ROSCON. A simple twitter app allowed anybody to make the spider move forward for yes and backward for no. Smart people in the room immediately found out that left and right also worked and our spider became super hyperactive. Another app enabled the spider to live stream whatever it saw on Youtube. Here is what it saw at IoT World Europe.
+<!-- lang: EN
+<span lang="english">
+In the past few weeks, we had several partners show their #InternetOfToys inventions. Erle Robotics showed how their app-enabled spider could be used as a voting machine on questions like “Should robots be allowed to have sex with humans?” during Mark Shuttleworth’s keynote as ROSCON. A simple twitter app allowed anybody to make the spider move forward for yes and backward for no. Smart people in the room immediately found out that left and right also worked and our spider became super hyperactive. Another app enabled the spider to live stream whatever it saw on Youtube. Here is what it [saw at IoT World Europe][5].
+</span>
+-->
+
+<!-- lang: FR -->
+<span lang="french">
+Au cours des dernières semaines, nous avons eu divers partenaires qui ont fait la démonstration leurs inventions #InternetDesJouets. Erle Robotics a montré comment leur araignée ouverte aux applications pouvait être utilisée comme une machine à voter sur des questions comme « Les robots doivent-ils être autorisés à avoir des relations sexuelles avec les humains ? » lors de la keynote de Mark Shuttleworth au ROSCON. Une simple application twitter a permis à n'importe qui de faire avancer l'araignée pour oui et reculer pour non. Des gens intelligents dans la salle ont immédiatement découvert que gauche et droite marchaient également et notre araignée est devenu super-hyperactive. Une autre application a permis à l'araignée de diffuser en direct sur YouTube tout ce que l'araignée voyait. Voici ce qu'elle [a vu pendant l'IoT World Europe][5].
+</span>
 
 M2MLabs took a Rapsberry Pi, a BrickPi and Lego Mindstorms to create a robot arm to transport objects. They created their own control app and made it move autonomously. With an app-enabled Lego Mindstorms, what would you build?
 
@@ -56,4 +65,4 @@ So if you are a serious business person then you should look at the #InternetOfT
 [2]: http://store.sphero.com/products/bb-8-by-sphero
 [3]: http://wowwee.com/robosapien-x
 [4]: http://ubuntu.com/things
-[5]: 
+[5]: https://www.youtube.com/watch?v=bz8N5tormiI
