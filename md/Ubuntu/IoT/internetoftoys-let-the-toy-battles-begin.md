@@ -1,6 +1,6 @@
 ---
 file: internetoftoys-let-the-toy-battles-begin.md
-title: "#InternetOfToys – let the toy battles begin"
+title: "#InternetDesJouets – Que la bataille des jouets commence !"
 author: Maarten Ectors
 translation: Winael
 correction:
@@ -22,7 +22,9 @@ Wouldn’t it be great to play with toys and get paid for it? If this sounds lik
 Ne serait-il pas merveilleux de jouer avec des jouets et d'être payé pour cela ? Si cela ressemble à la musique à vos oreilles, alors ce billet est fait pour vous. Si vous êtes un homme d'affaires qui pense que les jouets sont seulement destinés aux enfant, alors vous devriez aussi le lire ! Il est vrai que l'Industrie de l'Internet des Objets (IdO) va générer beaucoup d'argent dans les années à venir mais pour l'instant son adoption est lente. Les innovations les plus intéressantes ne viennent plus de grandes entreprises industrielles mais plutôt des « makers », des startups intelligentes, du financement participatif, etc. Chez Ubuntu, nous voulons en voir plus et nous sommes passionnés par les possibilités qu'offrent ces choses étonnantes, jouets, gadgets ou peu importe comment vous les appelez.
 </span>
 
-<center><img class="aligncenter size-full wp-image-26677" src="https://insights.ubuntu.com/wp-content/uploads/b1e1/ezgif-634704105.gif" alt="ezgif-634704105" width="500" height="281"></center>
+<center>
+<img class="aligncenter size-full wp-image-26677" src="https://insights.ubuntu.com/wp-content/uploads/b1e1/ezgif-634704105.gif" alt="ezgif-634704105" width="500" height="281">
+</center>
 
 <!-- lang: EN
 <span lang="english">
@@ -46,13 +48,31 @@ In the past few weeks, we had several partners show their #InternetOfToys invent
 Au cours des dernières semaines, nous avons eu divers partenaires qui ont fait la démonstration leurs inventions #InternetDesJouets. Erle Robotics a montré comment leur araignée ouverte aux applications pouvait être utilisée comme une machine à voter sur des questions comme « Les robots doivent-ils être autorisés à avoir des relations sexuelles avec les humains ? » lors de la keynote de Mark Shuttleworth au ROSCON. Une simple application twitter a permis à n'importe qui de faire avancer l'araignée pour oui et reculer pour non. Des gens intelligents dans la salle ont immédiatement découvert que gauche et droite marchaient également et notre araignée est devenu super-hyperactive. Une autre application a permis à l'araignée de diffuser en direct sur YouTube tout ce que l'araignée voyait. Voici ce qu'elle [a vu pendant l'IoT World Europe][5].
 </span>
 
+<!-- lang: EN
+<span lang="english">
 M2MLabs took a Rapsberry Pi, a BrickPi and Lego Mindstorms to create a robot arm to transport objects. They created their own control app and made it move autonomously. With an app-enabled Lego Mindstorms, what would you build?
+</span>
+-->
 
- 
+<!-- lang: FR -->
+<span lang="french">
+MM2Labs a pris une Raspberry Pi, une BrickPi et des Lego Mindstorms pour créer un bras robotique pour transporter des objets. Ils ont créé le propre application de contôle et l'ont rendu autonome. Avec des Lego Mindstorms ouverts aux applications, que construireriez-vous ?
+</span>
 
-ezgif-936977111
+<center>
+<img class="aligncenter size-full wp-image-26674" src="https://insights.ubuntu.com/wp-content/uploads/5542/ezgif-936977111.gif" alt="ezgif-936977111" width="600" height="338">
+</center>
+
+<!-- lang: EN
+<span lang="english">
 Think about other possibilities for the #InternetOfToys. For Instance, adding microphones and speakers to enable toys to communicate or linking social networks so toys become social walkie talkies. Cloud-enabled voice recognition would further enable you to be commander in chief to your own army of toys. Cameras can do object avoidance but also object recognition. Your toy can become the security guard of your castle or look for mice while you are away. NFC allows you to easily configure the toy with your mobile.
+</span>
+-->
 
+<!-- lang: FR -->
+<span lang="french">
+Pensez à d'autres possibilités pour les #InternetDesJouets. Par exemple, l'ajout de microphones et haut-parleurs pour permettre aux jouets de communiquer ou les relier aux réseaux sociaux afin que les jouets deviennent des talkies-walkies sociaux. Reconnaissance vocale dans le nuage serait en outre en mesure de vous permettre d'être le commandant en chef de votre propre armée de jouets. Les caméras peuvent faire de l'évitement d'objet, mais aussi de la reconnaissance d'objets. Votre jouet peut devenir le garde de sécurité de votre château ou chercher les souris pendant que vous n'êtes pas là. La NFC vous permet de configurer facilement le jouet avec votre mobile.
+</span>
  
 
 ezgif-269044619
