@@ -24,7 +24,16 @@ Ne serait-il pas merveilleux de jouer avec des jouets et d'être payé pour cela
 
 <center><img class="aligncenter size-full wp-image-26677" src="https://insights.ubuntu.com/wp-content/uploads/b1e1/ezgif-634704105.gif" alt="ezgif-634704105" width="500" height="281"></center>
 
-Smart toys today are rather limited in functionality. At most they have an API, a mobile app or a cloud. Even top of the line smart toys like Lego’s Mindstorms, Sphero’s BB8, Wowwee’s Robosapien X, etc. are still limited to what their manufacturers have envisioned. However, in reality, we all have supercomputers in our pockets that through apps can disrupt taxis, hotels, cinemas, etc. Why can’t we put apps on toys and let our imaginations run wild? That’s exactly why we open sourced snappy Ubuntu Core, to app-enable all type of things and through app stores allow anybody to share their brilliance with the world.
+<!-- lang: EN
+<span lang="english">
+Smart toys today are rather limited in functionality. At most they have an API, a mobile app or a cloud. Even top of the line smart toys like Lego’s [Mindstorms][1], Sphero’s [BB8][2], Wowwee’s [Robosapien X][3], etc. are still limited to what their manufacturers have envisioned. However, in reality, we all have supercomputers in our pockets that through apps can disrupt taxis, hotels, cinemas, etc. Why can’t we put apps on toys and let our imaginations run wild? That’s exactly why we open sourced [snappy Ubuntu Core][4], to app-enable all type of things and through app stores allow anybody to share their brilliance with the world.
+</span>
+-->
+
+<!-- lang: FR -->
+<span lang="french">
+Les jouets intelligents d'aujourd'hui sont plutôt limités en fonctionnalités. Tout au plus, ils ont une API, une application mobile ou une application sur nuage. Même les jouets haut-de-gamme intelligents comme les Lego [Mindstorms][1], les [BB8][2] de Sphéro, les [Robosapien X][3] de Wowwee, etc. sont encore limités à ce que leurs fabricants ont imaginé. Cependant, en réalité, nous avons tous supercalculateurs dans nos poches qui, grâce à des applications peuvent perturber les taxis, les hôtels, ou les cinémas, etc. Pourquoi ne pouvons-nous pas mettre des applications sur les jouets et laissez notre imagination se déchainer ? Voilà exactement pourquoi nous avons ouvert les sources de [Snappy Ubuntu Core][4], afin de permettre d'ouvrir aux applications tout type de choses et qu'à travers leurs magasins d'applications, elles puissent permettre à quiconque de partager leur éclat au monde entier.
+</span>
 
 In the past few weeks, we had several partners show their #InternetOfToys inventions. Erle Robotics showed how their app-enabled spider could be used as a voting machine on questions like “Should robots be allowed to have sex with humans?” during Mark Shuttleworth’s keynote as ROSCON. A simple twitter app allowed anybody to make the spider move forward for yes and backward for no. Smart people in the room immediately found out that left and right also worked and our spider became super hyperactive. Another app enabled the spider to live stream whatever it saw on Youtube. Here is what it saw at IoT World Europe.
 
@@ -41,3 +50,10 @@ ezgif-269044619
 Take it a step further and use the #InternetOfToys as a cheap experimentation platform. A communicating toy might allow a psychiatrist to bond with a young mental patient faster because they trust their toys. NFC allows payment processing and recharging contactless wallets. Perhaps people are willing to use voice recognition as a way to authorize payment as well. Building voice payments into a POS would be expensive but adding an app to this week’s cool toy and running a voice payment experiment is quite cheap.
 
 So if you are a serious business person then you should look at the #InternetOfToys as a platform to quickly and cheaply test new and innovative ideas and concepts. Your successes can afterwards be introduced and have applicability in the world of the Industrial IoT. For the rest of us we can all have fun and tell the world we are doing some serious work…
+
+
+[1]: http://mindstorms.lego.com/
+[2]: http://store.sphero.com/products/bb-8-by-sphero
+[3]: http://wowwee.com/robosapien-x
+[4]: http://ubuntu.com/things
+[5]: 
