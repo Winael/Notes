@@ -22,7 +22,7 @@ viewport: 'width=device-width, initial-scale=1'
 
 Par [%author]  
 Traduction: [%translation]  
-Correction: [%md correction]
+Correction: [%correction]
 
 <img src="https://mycroft-1d29.kxcdn.com/wp-content/uploads/2015/11/tensorflow.png" alt="Google bets “Open” is Future of Artificial Intelligence" width="1080" height="675">
 
