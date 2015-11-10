@@ -7,9 +7,18 @@ correction:
 date: 2015-10-30
 category: Internet des Objets
 tags: Internet of Things,Internet des Objets,IoT,IdO,Internet des Jouets,IdJ,Lego,drones,erle-spider,snappy,ubuntu 
-viewport:
+viewport: 'width=device-width, initial-scale=1'
 ---
 
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+**Qi'il est merveilleux de regarder nos chères petites têtes blondes (ou rousses, brunes, châtin, enfin peu importe) jouer avec leur jeux d'assemblage de type Lego, Meccano, etc.**
+**Ils construisent, reconstruisent, expérimentent. Tout ça de façon si ludique. Et beaucoup d'entre eux garderont ce virus, en jouant avec des "jeux d'assemblages" pour grands. Je parle bien évidement des « makers », ces grands enfants dont l'imagination alliée à la facilité d'expérimentation leur permet de créer nos objets de demain.**
+**S'il est facile d'assembler des pièces, la couche logicielle demande une plus grande expertise. Et si tout cela devenait de l'histoire ancienne ? C'est ce que propose Ubuntu avec Snappy et l'initiative #InternetDesJouets.**
+
+Bonne lecture !
+
+# \#InternetDesJouets – Que la bataille des jouets commence !
 
 <!-- lang: EN
 <span lang="english">
