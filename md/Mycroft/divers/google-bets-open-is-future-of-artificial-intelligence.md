@@ -18,7 +18,7 @@ viewport: 'width=device-width, initial-scale=1'
 
 
 
-# <!-- lang: EN <span lang="english>Google bets “Open” is Future of Artificial Intelligence</span> --><!-- lang: FR --><span lang="french">Google parie que l' « ouverture » est le Futur de l'Intelligence Artificielle.</span>
+# <span lang="french">Google parie que l' « ouverture » est le Futur de l'Intelligence Artificielle.</span>
 
 Par $author
 Traduction: $translation
