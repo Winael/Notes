@@ -4,6 +4,7 @@ title: "Ubuntuphone - Tutorial : How to set up mtp, adb and ssh on Meizu MX4 Ubu
 description: "Ubuntuphone Tricks"
 date: 2015-07-07
 author: Winael
+corrections: KennedyM
 category: Ubuntu
 language: EN
 tags: Ubuntu,Ubuntuphone,Meizu,MX4,adb,mtp,ssh
@@ -18,7 +19,7 @@ L'un des principaux avantages des Ubuntuphones, c'est de pouvoir facilement pren
 -->
 
 <!-- lang: EN -->
-One of the major benefits of Ubuntu Phones, is to be able to easily take over it through the abd protocol, or easily initiate SSH sessions over it. Unfortunately, the Meizu MX4 Ubuntu Edition shows itself somewhat reluctant. Fortunately the 'fix' take less time to set up than an TV ad.
+One of the major benefits of Ubuntu Phones is the facility to easily take control of it through the abd protocol, or easily initiate SSH sessions into it. Unfortunately, the Meizu MX4 Ubuntu Edition is somewhat 'reluctant'! Fortunately, the 'fix' takes less time to set up than a TV ad.
 
 <!-- lang: FR
 # Pré-requis
@@ -32,7 +33,7 @@ Nous allons commencer par installer tous les éléments qui nous seront utiles p
 -->
 
 <!-- EN-->
-We'll begin to install all the necessary elements for this tutorial :
+We'll begin by installing all the necessary elements for this tutorial:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -74,21 +75,21 @@ and activate the developer mode.
 -->
 
 <!-- lang: EN -->
-# Setting up the MTP
+# Setting up the MTP:
 
 <!-- lang: FR
 Tout d'abord, nous sommes de nombreux Insiders a avoir constaté que le téléphone de Meizu était mal reconnu par notre OS favoris. Impossible de monter le téléphone en Mass Storage, donc d'y transférer des fichiers par USB, dont nos clés SSH, ni même de le piloter via adb.
 -->
 
 <!-- lang: EN -->
-First, we are many Insiders have found that the Meizu phone was poorly recognized by our favorite OS. Unable to mount the phone in mass storage mode, and so imposible to transfer files via USB to it, as our SSH keys, or even control it via adb.
+First, as Insiders, we have found that the Meizu phone was poorly recognized by our favorite OS. We were unable to mount the phone in mass storage mode, and so it's impossible to transfer files into it via USB using our SSH keys, or control it via adb.
 
 <!-- lang: FR
 Dans ce cas, la première des choses à faire est d'interroger lsusb
 -->
 
 <!-- lang: EN -->
-In this case, the first thing to do, is to interrogate ``lsusb``:
+In this case, the first thing to do is to interrogate ``lsusb``:
 
 <!-- lang: FR
 Téléphone non branché :
@@ -120,7 +121,7 @@ Téléphone branché :
 -->
 
 <!-- lang: EN -->
-With a conneted phone:
+With a connected phone:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -146,14 +147,14 @@ On peut raisonnablement penser que la ligne Bus 002 Device 004: ID 2a45:0c02 cor
 -->
 
 <!-- lang: EN -->
-It is reasonable to think that the line ``Bus 002 Device 004: ID 2a45: 0c02`` match our device.
+It is reasonable to think that the line ``Bus 002 Device 004: ID 2a45: 0c02`` matches our device.
 
 <!-- lang: FR
 Mettons de côté de l'ID du fabricant et ID du modèle respectivement dans les variables ``VENDORID`` et ``MODELID``:
 -->
 
 <!-- lang: EN -->
-Let's put aside the manufacturer's ID and Model ID respectively in the variables ``VENDORID`` and ``MODELID``:
+Let's save the manufacturer's ID and Model ID in the variables ``VENDORID`` and ``MODELID`` respectively:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -166,7 +167,7 @@ FUSE peut permettre à un autre utilisateur que root de monter un système de fi
 -->
 
 <!-- lang: EN -->
-FUSE can allow another user to mount root a third party filesystem. This requires to uncomment the line ``user_allow_other`` in the file ``/etc/fuse.conf``:
+FUSE can permit another user as root, to mount a third party filesystem. This requires that we uncomment the line ``user_allow_other`` in the file ``/etc/fuse.conf``:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -178,7 +179,7 @@ Ensuite, nous devons modifier les règle udev en charge du MTP qui se trouvent d
 -->
 
 <!-- lang: EN -->
-Then we have to change the udev rules that support MTP found in the file ``/lib/udev/rules.d/ 69-libmtp.rules`` order to declare the Meizu:
+Then we have to change the udev rules that support MTP in the file ``/lib/udev/rules.d/ 69-libmtp.rules`` order to declare the Meizu:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -193,21 +194,21 @@ Normalement, en branchant votre Meizu MX 4 Ubuntu Edition, vous devriez le voir 
 -->
 
 <!-- lang: EN -->
-Normally, by plugging your Meizu MX4 Ubuntu Edition, you should see it mounted automatically.
+Normally, by plugging in your Meizu MX4 Ubuntu Edition, you should see it mounted automatically.
 
 <!-- lang: FR
 # Configuration d'adb
 -->
 
 <!-- lang: EN -->
-# Setting up ``adb``
+# Setting up ``adb``:
 
 <!-- lang: FR
 Il est possible de piloter le Meizu MX4 Ubuntu Edition via adb (Android Debug Bridge). Pour le configurer, il suffit d'ajouter l'idVendor dans le fichier $HOME/.android/adb_usb.ini.
 -->
 
 <!-- lang: EN -->
-It's possible to drive the Meizu MX4 Ubuntu Edition through ``adb`` (Android Debug Bridge). To set it up, you just have to add the ``idVendor`` in the file ``$HOME/.android/adb_usb.ini``.
+It's possible to control the Meizu MX4 Ubuntu Edition through ``adb`` (Android Debug Bridge). To set it up, you just have to add the ``idVendor`` in the file ``$HOME/.android/adb_usb.ini``:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -232,7 +233,7 @@ Le téléphone Meizu MX4 Ubuntu Edition est maintenant reconnu lorsque l'on tape
 -->
 
 <!-- lang: EN -->
-The phone Meizu MX4 Ubuntu Edition is now known when we run the command:
+The phone Meizu MX4 Ubuntu Edition is now recognized when we run the command:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -248,7 +249,7 @@ Pour accéder au téléphone, il suffit de taper :
 -->
 
 <!-- lang: EN -->
-To access to your device, you just have to run:
+To access your device, you just run:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -261,7 +262,7 @@ phablet@ubuntu-phablet:~$
 -->
 
 <!-- lang: EN -->
-# Setting up SSH
+# Setting up SSH:
 
 <!-- lang: FR
 Pouvoir monter son téléphone comme une unité de stockage amovible, c'est bien.
@@ -270,23 +271,23 @@ Mais ce qui serait top c'est de pouvoir le faire sans fil, sans avoir à sortir 
 -->
 
 <!-- lang: EN -->
-Being able to mount our phone as a removable storage drive unit is good.
-Being able to manage our phone with command line is better.
-But the best, it's to be able to do it wireless. Well, it is possible, thanks to WiFi through our local network.
+Being able to manage our phone using the command-line is better.
+But the best – can we control it wirelessly?
+Well, it is possible, thanks to WiFi through our local network.
 
 <!-- lang: FR
 ## L'échange de clés
 -->
 
 <!-- lang: EN -->
-## Keys exchange
+## Keys exchange:
 
 <!-- lang: FR
 Afin de sécuriser la connexion en ligne de commande entre les appareils mobiles tournant sur Ubuntu et les postes de travail, il est conseillé d'utliser phablet-shell, la commande issue des phablet-tools permettant de mettre en place une connexion SSH entre les appareils. Au premier lancement, phablet-shell va gérer l'échange de clé, puis se connecter en SSH sur l'appareil mobile
 -->
 
 <!-- lang: EN -->
-To secure the connection from the command line between mobile devices running Ubuntu the workstations, it is recommended to use ``phablet-shell``, one of the tools that come from ``phablet-tools`` that allows to establish a SSH connection between devices. During the first launch, ``phablet-shell`` will handle the keys exchange, then connect via SSH on the mobile device 
+To secure the connection from the command-line between mobile devices running workstations Ubuntu, it is recommended to use ``phablet-shell``, one of the tools that come from ``phablet-tools`` that can establish a SSH connection between devices. During the first launch, ``phablet-shell`` will handle the keys exchange, then connect via SSH on the mobile device 
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -309,14 +310,14 @@ phablet@ubuntu-phablet:~$
 ## Fixing IP adress
 
 <!-- lang: EN -->
-Now it is recommanded to fix the IP Adress to always use the same adress on a specific network.
+Now, it is recommanded to fix the IP Address to always use the same address on a specific network.
 
 <!-- lang: FR
 Depuis l'appareil mobile Meizu MX4 Ubuntu Edition on liste l'IP courante pour le téléphone
 -->
 
 <!-- lang: EN -->
-From de Meizu MX4 Ubuntu Edition mobile device, we list all the current IP for the phone:
+From the Meizu MX4 Ubuntu Edition mobile device, we list all the current IPs for the phone:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -336,7 +337,7 @@ On se rend dans le répertoire ``/etc/NetworkManager`` et on regarde le contenu 
 -->
 
 <!-- lang: EN -->
-We have to go to the ``/etc/NetworkManager`` directory and take a look at the content of our connection settingd
+We must go to the ``/etc/NetworkManager`` directory and take a look at the content of our connection settings:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -357,7 +358,7 @@ We edit the connection:
 -->
 
 <!-- lang: EN -->
-- First, we list all the connections set up
+First, we list all the connections setup:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -397,7 +398,7 @@ You may edit the following settings: connection, 802-11-wireless (wifi), 802-11-
 -->
 
 <!-- lang: EN -->
-- We print the actual configuration
+- We print the actual configuration:
 
 <!-- Codeblock, do not translate -->
 ```sh 
@@ -484,7 +485,7 @@ ipv6.dhcp-hostname:                     --
 -->
 
 <!-- lang: EN -->
-- We have to set the IPv4 configuration
+- We have to set the IPv4 configuration:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -497,7 +498,7 @@ You may edit the following properties: method, dns, dns-search, addresses, addre
 -->
 
 <!-- lang: EN -->
-- We swith the IPv4 configuration to manual
+- We switch the IPv4 configuration to manual:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -509,7 +510,7 @@ On modifie l'adresse IP, le masque et la passerelle
 -->
 
 <!-- lang: EN -->
-- We modify the adress IP, the mask and the gateway
+- We modify the IP address, the mask, and the gateway:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -521,7 +522,7 @@ On modifie l'adresse DNS
 -->
 
 <!-- lang: EN -->
-- We modify the DNS adress
+- We modify the DNS address:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -534,7 +535,7 @@ On sort de la configuration de l'IPv4
 
 <!-- lang: EN -->
 
-- We get out from the IPv4 configuration
+- We exit from the IPv4 configuration:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -546,7 +547,7 @@ On active la connexion automatique
 -->
 
 <!-- lang: EN -->
-We activate the automatic connetion
+- We activate the automatic connection:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -558,11 +559,11 @@ On affiche la nouvelle configuration
 -->
 
 <!-- lang: EN -->
-- We print the new settings
+- We print the new settings:
 
 <!-- Codeblock, do not translate -->
 ```sh
-nmcli&gt; print
+nmcli> print
 ```
 
 <!-- lang: FR
@@ -570,12 +571,12 @@ On sauvegarde et on quitte
 -->
 
 <!-- lang: EN -->
-- On sauvegarde et on quitte
+- - Save, and exit:
 
 <!-- Codeblock, do not translate -->
 ```sh
-nmcli&gt; save
-nmcli&gt; quit
+nmcli> save
+nmcli> quit
 ```
 
 <!-- lang: FR
@@ -583,7 +584,7 @@ On redemarre le téléphone puis on regarde son adresse ip
 -->
 
 <!-- lang: EN -->
-We rebbot the phone and take a look on its IP
+We reboot the phone and take a look on its IP:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -623,9 +624,11 @@ Ensuite nous pouvons faire :
 
 <!-- lang: EN -->
 
-The IP adress is set up with the IP adress that we fixed
-Now, we have just to setup the DNS resolution of our Internet box ot in file ``/etc/hosts` on Desktop
-Then we can just connect to the phone with the command
+The IP address is set up with the address that we fixed.
+
+Now, we have just to set up the DNS resolution of our Internet box in the file ``/etc/hosts`
+
+Then we can just connect to the phone with the command:
 
 <!-- Codeblock, do not translate -->
 ```sh
@@ -638,8 +641,11 @@ A bientôt pour d'autres astuces !!!
 -->
 
 <!-- lang: EN -->
-You and add a bookmark to ``sftp://phablet@mx4ubuntu:/home/phablet`` in ``nautilus`` to mount your phone according to the WiFi. It will simplify your life for file transfering.
+You can add a bookmark to ``sftp://phablet@mx4ubuntu:/home/phablet`` in ``nautilus`` to mount your phone using WiFi. It will simplify your life for file transfers.
+
 See you soon for more tips!!!
+
+Thx KennedyM for the corrections :)
 
 [1]: http://2.bp.blogspot.com/-nEhpcaF9gQQ/VjNfOCkYTXI/AAAAAAAA9gY/SaMZQJ74PxA/s320/screenshot20150705_011856396.png
 [2]: http://2.bp.blogspot.com/-4jLiHztMuXc/VjNfOHmYJoI/AAAAAAAA9gc/-f10RfzONno/s320/screenshot20150705_012125728.png
