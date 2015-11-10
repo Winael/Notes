@@ -16,7 +16,7 @@ viewport: 'width=device-width, initial-scale=1'
 **Ils construisent, reconstruisent, expérimentent. Tout ça de façon si ludique. Et beaucoup d'entre eux garderont ce virus, en jouant avec des "jeux d'assemblages" pour grands. Je parle bien évidement des « makers », ces grands enfants dont l'imagination alliée à la facilité d'expérimentation leur permet de créer nos objets de demain.**
 **S'il est facile d'assembler des pièces, la couche logicielle demande une plus grande expertise. Et si tout cela devenait de l'histoire ancienne ? C'est ce que propose Ubuntu avec Snappy et l'initiative #InternetDesJouets.**
 
-Bonne lecture !
+**Bonne lecture !**
 
 # \#InternetDesJouets – Que la bataille des jouets commence !
 
@@ -97,15 +97,24 @@ Take it a step further and use the #InternetOfToys as a cheap experimentation pl
 <span lang="french">
 Amenons-le concept un peu plus loin et utilisons l' #InternetDesJouets comme une plate-forme d'expérimentation peu coûteuse. Un jouet communiquant pourrait permettre à un psychiatre de se lier plus rapidement avec un jeune atteint de troubles mentaux car ils font confiance à leurs jouets. La NFC permet le traitement des paiements et la recharge portefeuilles sans contact. Peut-être que les gens sont prêts à aussi utiliser la reconnaissance vocale comme un moyen d'autoriser le paiement. Construire un moyen de paiements par la voix dans un POS serait coûteux, mais en ajoutant une application dans le super joujou de cette semaine et conduire l'expérimentation de paiement par la voix n'est pas cher du tout.
 </span>
--->
 
 <!-- lang: EN
 <span lang="english">
 So if you are a serious business person then you should look at the #InternetOfToys as a platform to quickly and cheaply test new and innovative ideas and concepts. Your successes can afterwards be introduced and have applicability in the world of the Industrial IoT. For the rest of us we can all have fun and tell the world we are doing some serious work…
+</span>
+-->
 
+<!-- lang: FR -->
+<span lang="french">
+Donc, si vous êtes un homme d'affaires sérieux, vous devriez jeter un oeil du côté de l' #InternetDesJouets comme une plateforme pour tester rapidement et à moindre coût  des idées et des concepts nouveaux et innovants. Vos succès peuvent ensuite être introduits avec une applicabilité immédiate dans le monde de l'IdO industrielle. Pour le reste d'entre nous, nous pouvons tous prendre du plaisir et de dire au monde que nous faisons un travail sérieux...
+</span>
+
+**source :** [_#InternetOfToys – let the toy battles begin_][6] sur [**Ubuntu Insights**][7]
 
 [1]: http://mindstorms.lego.com/
 [2]: http://store.sphero.com/products/bb-8-by-sphero
 [3]: http://wowwee.com/robosapien-x
 [4]: http://ubuntu.com/things
 [5]: https://www.youtube.com/watch?v=bz8N5tormiI
+[6]: http://insights.ubuntu.com/2015/10/30/internetoftoys-let-the-toy-battles-begin/
+[7]: http://insights.ubuntu.com
