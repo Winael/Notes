@@ -30,7 +30,7 @@ Hey everyone, it's been an awesome week with a lot of great stuff to share! I en
 
 <!-- lang: FR -->
 <span lang="french">
-	Salut à tous, cette semaine a été incroyable avec beaucoup de grandes choses à partager ! Je vous encourage tous à consulter le nouveau billet de Josh, notre responsable de projet sur le [pourquoi vous voudriez parler à votre ordinateur][2] (NdT: Une version traduite peut-être trouvée [ici][3]. C'est un billet de blog génial qui couvre l'histoire de l'interaction avec l'ordinateur, de l'interface en de ligne de commande, en passant par de nos jours - avec les interactions tactiles et des celles avec la souris et le clavier, jusqu'à à un avenir qui ressemble beaucoup au langage naturel de Mycroft où l'informatique vous comprend réellement.
+        Salut à tous, cette semaine a été incroyable avec beaucoup de grandes choses à partager ! Je vous encourage tous à consulter le nouveau billet de Josh, notre responsable de projet sur le [pourquoi vous voudriez parler à votre ordinateur][2] (NdT: Une version traduite peut-être trouvée [ici][3]. C'est un billet de blog génial qui couvre l'histoire de l'interaction avec l'ordinateur, de l'interface en de ligne de commande, en passant par de nos jours - avec les interactions tactiles et des celles avec la souris et le clavier, jusqu'à à un avenir qui ressemble beaucoup au langage naturel de Mycroft où l'informatique vous comprend réellement.
 </span>
 
 <!-- lang: EN
@@ -41,7 +41,7 @@ Also, CTO Ryan Sipes will be talking about Mycroft on the Ubuntu Desktop and Pho
 
 <!-- lang: FR -->
 <span lang="french">
-	Le directeur technique de Mycroft, Ryan Sipes parlera aussi de Mycroft sur le bureau et le téléphone Ubuntu durant le Sommet en ligne Ubuntu ce jeudi. [Vous pouvez en prendre connaissance ici][5]. RSVP et regardez l'événement en direct où Ryan expliquera comment fonctionne Mycroft sur le bureau, ainsi que la manière dont les gens peuvent contribuer au projet à ce stade. [Il y aura même une démo][6]. Ce sera à 15:00 UTC via Hangouts on Air.
+        Le directeur technique de Mycroft, Ryan Sipes parlera aussi de Mycroft pour le bureau et le téléphone Ubuntu durant le Sommet en ligne Ubuntu ce jeudi. [Vous pouvez en prendre connaissance ici][5]. RSVP et regardez l'événement en direct où Ryan expliquera comment fonctionne Mycroft sur le bureau, ainsi que la manière dont les gens peuvent contribuer au projet à ce stade. [Il y aura même une démo][6]. Ce sera à 15:00 UTC via Hangouts on Air.
 </span>
 
 <!-- lang: EN
