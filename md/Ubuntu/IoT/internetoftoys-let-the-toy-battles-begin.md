@@ -19,6 +19,9 @@ viewport: 'width=device-width, initial-scale=1'
 **Bonne lecture !**
 
 # \#InternetDesJouets – Que la bataille des jouets commence !
+Par $author
+Traduction : $translation
+Correction: $correction
 
 <!-- lang: EN
 <span lang="english">
@@ -43,7 +46,7 @@ Smart toys today are rather limited in functionality. At most they have an API, 
 
 <!-- lang: FR -->
 <span lang="french">
-Les jouets intelligents d'aujourd'hui sont plutôt limités en fonctionnalités. Tout au plus, ils ont une API, une application mobile ou une application sur nuage. Même les jouets haut-de-gamme intelligents comme les Lego [Mindstorms][1], les [BB8][2] de Sphéro, les [Robosapien X][3] de Wowwee, etc. sont encore limités à ce que leurs fabricants ont imaginé. Cependant, en réalité, nous avons tous supercalculateurs dans nos poches qui, grâce à des applications peuvent perturber les taxis, les hôtels, ou les cinémas, etc. Pourquoi ne pouvons-nous pas mettre des applications sur les jouets et laissez notre imagination se déchainer ? Voilà exactement pourquoi nous avons ouvert les sources de [Snappy Ubuntu Core][4], afin de permettre d'ouvrir aux applications tout type de choses et qu'à travers leurs magasins d'applications, elles puissent permettre à quiconque de partager leur éclat au monde entier.
+Les jouets intelligents d'aujourd'hui sont plutôt limités en fonctionnalités. Tout au plus, ils ont une API, une application mobile ou une application sur. Même les jouets haut-de-gamme intelligents comme les Lego [Mindstorms][1], les [BB8][2] de Sphéro, les [Robosapien X][3] de Wowwee, etc. sont encore limités à ce que leurs fabricants ont imaginé. Cependant, en réalité, nous avons tous supercalculateurs dans nos poches qui, grâce à des applications peuvent perturber les taxis, les hôtels, ou les cinémas, etc. Pourquoi ne pouvons-nous pas mettre des applications sur les jouets et laissez notre imagination se déchainer ? Voilà exactement pourquoi nous avons ouvert les sources de [Snappy Ubuntu Core][4], afin de permettre d'ouvrir aux applications tout type de choses et qu'à travers leurs magasins d'applications, elles puissent permettre à quiconque de partager leur éclat au monde entier.
 </span>
 
 <!-- lang: EN
@@ -118,3 +121,5 @@ Donc, si vous êtes un homme d'affaires sérieux, vous devriez jeter un oeil du 
 [5]: https://www.youtube.com/watch?v=bz8N5tormiI
 [6]: http://insights.ubuntu.com/2015/10/30/internetoftoys-let-the-toy-battles-begin/
 [7]: http://insights.ubuntu.com
+
+
