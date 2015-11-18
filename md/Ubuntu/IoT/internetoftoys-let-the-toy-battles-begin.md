@@ -3,25 +3,26 @@ file: internetoftoys-let-the-toy-battles-begin.md
 title: "#InternetDesJouets – Que la bataille des jouets commence !"
 author: Maarten Ectors
 translation: Winael
-correction:
+correction: Winael
 date: 2015-10-30
 category: Internet des Objets
 tags: Internet of Things,Internet des Objets,IoT,IdO,Internet des Jouets,IdJ,Lego,drones,erle-spider,snappy,ubuntu 
+status: to_publish
 viewport: 'width=device-width, initial-scale=1'
 ---
 
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-**Qi'il est merveilleux de regarder nos chères petites têtes blondes (ou rousses, brunes, châtin, enfin peu importe) jouer avec leur jeux d'assemblage de type Lego, Meccano, etc.**
+**Qui'il est merveilleux de regarder nos chères petites têtes blondes (ou rousses, brunes, châtin, enfin peu importe) jouer avec leur jeux d'assemblage de type Lego, Meccano, etc.**
 **Ils construisent, reconstruisent, expérimentent. Tout ça de façon si ludique. Et beaucoup d'entre eux garderont ce virus, en jouant avec des "jeux d'assemblages" pour grands. Je parle bien évidement des « makers », ces grands enfants dont l'imagination alliée à la facilité d'expérimentation leur permet de créer nos objets de demain.**
 **S'il est facile d'assembler des pièces, la couche logicielle demande une plus grande expertise. Et si tout cela devenait de l'histoire ancienne ? C'est ce que propose Ubuntu avec Snappy et l'initiative #InternetDesJouets.**
 
 **Bonne lecture !**
 
 # \#InternetDesJouets – Que la bataille des jouets commence !
-Par $author
-Traduction : $translation
-Correction: $correction
+**Par Maarten Ectors**  
+**Traduction : Winael**  
+**Correction: Winael**  
 
 <!-- lang: EN
 <span lang="english">
@@ -31,7 +32,7 @@ Wouldn’t it be great to play with toys and get paid for it? If this sounds lik
 
 <!-- lang: FR -->
 <span lang="french">
-Ne serait-il pas merveilleux de jouer avec des jouets et d'être payé pour cela ? Si cela ressemble à la musique à vos oreilles, alors ce billet est fait pour vous. Si vous êtes un homme d'affaires qui pense que les jouets sont seulement destinés aux enfant, alors vous devriez aussi le lire ! Il est vrai que l'Industrie de l'Internet des Objets (IdO) va générer beaucoup d'argent dans les années à venir mais pour l'instant son adoption est lente. Les innovations les plus intéressantes ne viennent plus de grandes entreprises industrielles mais plutôt des « makers », des startups intelligentes, du financement participatif, etc. Chez Ubuntu, nous voulons en voir plus et nous sommes passionnés par les possibilités qu'offrent ces choses étonnantes, jouets, gadgets ou peu importe comment vous les appelez.
+Ne serait-il pas merveilleux de jouer avec des jouets et d'être payé pour cela ? Si cela ressemble à de la musique à vos oreilles, alors ce billet est fait pour vous. Si vous êtes un homme d'affaires qui pense que les jouets sont seulement destinés aux enfants, alors vous devriez aussi le lire ! Il est vrai que l'Industrie de l'Internet des Objets (IdO) va générer beaucoup d'argent dans les années à venir mais pour l'instant son adoption est lente. Les innovations les plus intéressantes ne viennent plus de grandes entreprises industrielles, mais plutôt des « makers », des startups intelligentes, du financement participatif, etc. Chez Ubuntu, nous voulons en voir plus et nous sommes passionnés par les possibilités qu'offrent ces choses étonnantes, jouets, gadgets ou peu importe comment vous les appelez.
 </span>
 
 <center>
@@ -46,7 +47,7 @@ Smart toys today are rather limited in functionality. At most they have an API, 
 
 <!-- lang: FR -->
 <span lang="french">
-Les jouets intelligents d'aujourd'hui sont plutôt limités en fonctionnalités. Tout au plus, ils ont une API, une application mobile ou une application sur. Même les jouets haut-de-gamme intelligents comme les Lego [Mindstorms][1], les [BB8][2] de Sphéro, les [Robosapien X][3] de Wowwee, etc. sont encore limités à ce que leurs fabricants ont imaginé. Cependant, en réalité, nous avons tous supercalculateurs dans nos poches qui, grâce à des applications peuvent perturber les taxis, les hôtels, ou les cinémas, etc. Pourquoi ne pouvons-nous pas mettre des applications sur les jouets et laissez notre imagination se déchainer ? Voilà exactement pourquoi nous avons ouvert les sources de [Snappy Ubuntu Core][4], afin de permettre d'ouvrir aux applications tout type de choses et qu'à travers leurs magasins d'applications, elles puissent permettre à quiconque de partager leur éclat au monde entier.
+Les jouets intelligents d'aujourd'hui sont plutôt limités en fonctionnalités. Tout au plus, ils ont une API, une application mobile ou une application sur le nuage. Même les jouets haut-de-gamme intelligents comme les Lego [Mindstorms][1], les [BB8][2] de Sphéro, les [Robosapien X][3] de Wowwee, etc. sont encore limités à ce que leurs fabricants ont imaginé. Cependant, en réalité, nous avons tous des supercalculateurs dans nos poches qui, grâce à des applications peuvent perturber les taxis, les hôtels, les cinémas, etc. Pourquoi ne pouvons-nous pas mettre des applications sur les jouets et laissez notre imagination se déchainer ? Voilà exactement pourquoi nous avons ouvert les sources de [Snappy Ubuntu Core][4], afin de permettre d'ouvrir aux applications tout type de trucs et qu'à travers leurs magasins d'applications, elles puissent permettre à quiconque de partager leur éclat au monde entier.
 </span>
 
 <!-- lang: EN
@@ -57,7 +58,7 @@ In the past few weeks, we had several partners show their #InternetOfToys invent
 
 <!-- lang: FR -->
 <span lang="french">
-Au cours des dernières semaines, nous avons eu divers partenaires qui ont fait la démonstration leurs inventions #InternetDesJouets. Erle Robotics a montré comment leur araignée ouverte aux applications pouvait être utilisée comme une machine à voter sur des questions comme « Les robots doivent-ils être autorisés à avoir des relations sexuelles avec les humains ? » lors de la keynote de Mark Shuttleworth au ROSCON. Une simple application twitter a permis à n'importe qui de faire avancer l'araignée pour oui et reculer pour non. Des gens intelligents dans la salle ont immédiatement découvert que gauche et droite marchaient également et notre araignée est devenu super-hyperactive. Une autre application a permis à l'araignée de diffuser en direct sur YouTube tout ce que l'araignée voyait. Voici ce qu'elle [a vu pendant l'IoT World Europe][5].
+Au cours des dernières semaines, nous avons eu divers partenaires qui ont fait la démonstration leurs inventions dans l'#InternetDesJouets. Erle Robotics a montré comment leur araignée ouverte aux applications pouvait être utilisée comme une machine à voter sur des questions comme « Les robots doivent-ils être autorisés à avoir des relations sexuelles avec les humains ? » lors de la keynote de Mark Shuttleworth au ROSCON. Une simple application twitter a permis à n'importe qui de faire avancer l'araignée pour oui et la faire reculer pour non. Des gens intelligents dans la salle ont immédiatement découvert que gauche et droite marchaient également et notre araignée est devenu super-hyperactive. Une autre application a permis à l'araignée de diffuser en direct sur YouTube tout ce que l'araignée voyait. Voici ce qu'elle [a vu pendant l'IoT World Europe][5].
 </span>
 
 <!-- lang: EN
@@ -68,7 +69,7 @@ M2MLabs took a Rapsberry Pi, a BrickPi and Lego Mindstorms to create a robot arm
 
 <!-- lang: FR -->
 <span lang="french">
-MM2Labs a pris une Raspberry Pi, une BrickPi et des Lego Mindstorms pour créer un bras robotique pour transporter des objets. Ils ont créé le propre application de contôle et l'ont rendu autonome. Avec des Lego Mindstorms ouverts aux applications, que construireriez-vous ?
+MM2Labs a pris une Raspberry Pi, une BrickPi et des Lego Mindstorms pour créer un bras robotique pour transporter des objets. Ils ont créé leur propre application de contôle et l'ont rendu autonome. Avec des Lego Mindstorms ouverts aux applications, que construireriez-vous ?
 </span>
 
 <center>
@@ -83,7 +84,7 @@ Think about other possibilities for the #InternetOfToys. For Instance, adding mi
 
 <!-- lang: FR -->
 <span lang="french">
-Pensez à d'autres possibilités pour l' #InternetDesJouets. Par exemple, l'ajout de microphones et haut-parleurs pour permettre aux jouets de communiquer ou les relier aux réseaux sociaux afin que les jouets deviennent des talkies-walkies sociaux. Reconnaissance vocale dans le nuage serait en outre en mesure de vous permettre d'être le commandant en chef de votre propre armée de jouets. Les caméras peuvent faire de l'évitement d'objet, mais aussi de la reconnaissance d'objets. Votre jouet peut devenir le garde de sécurité de votre château ou chercher les souris pendant que vous n'êtes pas là. La NFC vous permet de configurer facilement le jouet avec votre mobile.
+Pensez à d'autres possibilités pour l' #InternetDesJouets. Par exemple, l'ajout de microphones et haut-parleurs pour permettre aux jouets de communiquer ou les relier aux réseaux sociaux afin que les jouets deviennent des talkies-walkies sociaux. La reconnaissance vocale dans le nuage serait en outre en mesure de vous permettre d'être le commandant en chef de votre propre armée de jouets. Les caméras peuvent faire de l'évitement d'objet, mais aussi de la reconnaissance d'objets. Votre jouet peut devenir le garde de sécurité de votre château ou chercher des souris pendant que vous n'êtes pas là. La NFC vous permet de configurer facilement le jouet avec votre mobile.
 </span>
  
 <center>
@@ -109,7 +110,7 @@ So if you are a serious business person then you should look at the #InternetOfT
 
 <!-- lang: FR -->
 <span lang="french">
-Donc, si vous êtes un homme d'affaires sérieux, vous devriez jeter un oeil du côté de l' #InternetDesJouets comme une plateforme pour tester rapidement et à moindre coût  des idées et des concepts nouveaux et innovants. Vos succès peuvent ensuite être introduits avec une applicabilité immédiate dans le monde de l'IdO industrielle. Pour le reste d'entre nous, nous pouvons tous prendre du plaisir et de dire au monde que nous faisons un travail sérieux...
+Donc, si vous êtes un homme d'affaires sérieux, vous devriez jeter un oeil du côté de l' #InternetDesJouets comme une plateforme pour tester rapidement et à moindre coût, des idées et des concepts nouveaux et innovants. Vos succès peuvent ensuite être introduits avec une applicabilité immédiate dans le monde de l'IdO industrielle. Pour le reste d'entre nous, nous pouvons tous prendre du plaisir et de dire au monde que nous faisons un travail sérieux...
 </span>
 
 **source :** [_#InternetOfToys – let the toy battles begin_][6] sur [**Ubuntu Insights**][7]

@@ -1,9 +1,14 @@
+---
+file: OTA-8-Ubuntu-Phone.md
+title: "Telephone Ubuntu : OTA 8"
+author: Amrisha Prashar
+translation: Winael
+date: 2015-11-17
+category: UbuntuPhone
+tags: ubuntuphone,phone,ubuntu
+---
 
-
-
-
-
-La prochaine OTA doit atterrir dans un ou deux jours et nous avons de très bons éléments dans cette version. Le premier groupe d'éléments est particulièrement remarquables et la seconde, concerne plus de l'affinement:
+**La prochaine OTA doit atterrir dans un ou deux jours et nous avons de très bons éléments dans cette version. Le premier groupe d'éléments est particulièrement remarquables et la seconde, concerne plus de l'affinement:**
 
 - Nouvelle application météo
 
@@ -35,3 +40,5 @@ La prochaine OTA doit atterrir dans un ou deux jours et nous avons de très bons
 - Le détails de divers correctifs de bogues [peuvent être trouvés ici][1]
 
 Merci!
+
+[1]: https://launchpad.net/canonical-devices-system-image/+milestone/ww46-2015
