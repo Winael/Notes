@@ -1,4 +1,4 @@
-﻿---
+---
 file: uavia-devoile-les-premiers-drones-100-telecommandes-propulse-par-ubuntu.md
 title: "UAVIA devoile les premiers drones 100% telecommandes; propulse par Ubuntu"
 author: Thibaut Rouffineau
