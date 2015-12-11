@@ -30,7 +30,7 @@ Bien que l'on puisse sentir cela très axé sur les affaires, il y a des ramific
 
 TechCrunch Disrupt se déroule au Theâtre Copper Box au cœur du Parc Olympique. Nous faisons des demonstrations d'UAVIA toute la journée aujourd'hui, dans l'allée du materiel, n'oubliez pas de venir nous dire bonjour !
 
-[1]: /home/winael/Documents/Notes/fig/Ubuntu/IoT/UAVIA.jpg
+[1]: ../../../fig/Ubuntu/IoT/UAVIA.jpg
 [2]: http://techcrunch.com/event-info/disrupt-london-2015/
 [3]: http://uavia.eu/
 [4]: https://developer.ubuntu.com/en/snappy/?_ga=1.72093139.196362254.1441195516
