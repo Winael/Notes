@@ -1,6 +1,6 @@
 ---
 file: uavia-devoile-les-premiers-drones-100-telecommandes-propulse-par-ubuntu.md
-title: "UAVIA devoile les premiers drones 100% telecommandes; propulse par Ubuntu"
+title: "UAVIA dévoile les premiers drones 100% télécommandés; propulsés par Ubuntu"
 author: Thibaut Rouffineau
 translation: Winael
 date: 2015-12-08
@@ -21,13 +21,13 @@ status: Pending_Review
 
 ----------
 
-## UAVIA devoile les premiers drones 100% telecommandes; propulse par Ubuntu
+## UAVIA dévoile les premiers drones 100% télécommandés; propulsés par Ubuntu
 
 **Par Thibaut Rouffineau**  
 **le 8 Decembre 2015**  
 **Traduction: Winael**  
 
-<img src="" alt="../../../fig/Ubuntu/IoT/UAVIA.jpg" width="50%" style="float: right; margin: 0 20px 20px 20px;" />
+<img src="" alt="/home/winael/Documents/Notes/fig/Ubuntu/IoT/UAVIA.jpg" width="50%" style="float: right; margin: 0 20px 20px 20px;" />
 
 Aujourd'hui, au [TechCrunch Disrupt][2], la prochaine génération de drones télécommandés est devoilée par [UAVIA][3], propulsée par [Snappy Ubuntu Core][4].
 
