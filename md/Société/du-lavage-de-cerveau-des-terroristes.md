@@ -1,8 +1,23 @@
-En lisant de nombreux témoignages sur les terroristes ayant attaqués la France, il y a une chose qui me tracasse.
+---
+file: du-lavage-de-cerveau-des-terroristes.md
+title: "Du lavage de cerveau des terroristes"
+author: Winael
+date: 2015-11-20
+category: Société
+tags: société, terrorisme, islamisme, radicalisation, Al Bagdhadi, Captagon, lavage de cerveau, manipulation
+status: to_publish
+viewport: 'width=device-width, initial-scale=1'
+---
 
-Nombreux sont ceux qui, d'après leur entourage, amis, famille, était des gens plein de vie, moyennement porté sur la religion et qui d'un coup se sont radicalisés au point de se faire exploser en essayant de tuer un maximum de gens. 
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-Comment expliquer ce phénomène ?
+<!-- Chapeau -->
+
+**En lisant de nombreux témoignages sur les terroristes ayant attaqués la France, il y a une chose qui me tracasse.**
+
+**Nombreux sont ceux qui, d'après leur entourage, amis, famille, était des gens plein de vie, moyennement porté sur la religion et qui d'un coup se sont radicalisés au point de se faire exploser en essayant de tuer un maximum de gens.**
+
+**Comment expliquer ce phénomène ?**
 
 Bien entendu, on a d'abord penser au contexte social et politique intérieur qui aurait pu amener des jeunes à se sentir rejeter au point d'en détester leur pays. Mais cela ne semble pas du tout coller à leur profile.
 
