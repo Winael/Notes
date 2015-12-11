@@ -9,12 +9,25 @@ tags: Internet of Things,IoT,drones,UAVIA,Snappy,Snappy Ubuntu Core,Ubuntu
 status: Pending_Review
 ---
 
-# UAVIA devoile les premiers drones 100% telecommandes; propulse par Ubuntu
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+<!-- Chapeau -->
+
+**Snappy Ubuntu Core prend litteralement son envol en France avec UAVIA, une entreprise francilienne, qui a entrepris de construire avec Snappy, le premier drone 100% pilotable depuis une adresse IP.**
+**Etre capable de piloter, maintenir et installer de façon sécurisée des applications sur un drone, ouvre la voie pour des marchés professionnels, coeur de cible de la société UAVIA, mais pourrait avoir des répercussions également sur le marché des drones pour particuliers.**
+**Une nouvelle page est tournée, et ce grâce à Snappy Ubuntu Core.**
+
+<!-- /Chapeau -->
+
+----------
+
+## UAVIA devoile les premiers drones 100% telecommandes; propulse par Ubuntu
+
 **Par Thibaut Rouffineau**  
 **le 8 Decembre 2015**  
 **Traduction: Winael**  
 
-![UAVIA][1]
+<img src="" alt="../../../fig/Ubuntu/IoT/UAVIA.jpg" width="50%" style="float: right; margin: 0 20px 20px 20px;" />
 
 Aujourd'hui, au [TechCrunch Disrupt][2], la prochaine génération de drones télécommandés est devoilée par [UAVIA][3], propulsée par [Snappy Ubuntu Core][4].
 
@@ -30,7 +43,11 @@ Bien que l'on puisse sentir cela très axé sur les affaires, il y a des ramific
 
 TechCrunch Disrupt se déroule au Theâtre Copper Box au cœur du Parc Olympique. Nous faisons des demonstrations d'UAVIA toute la journée aujourd'hui, dans l'allée du materiel, n'oubliez pas de venir nous dire bonjour !
 
+**source :** [_UAVIA unveils first 100% remotely controlled drones; powered by Ubuntu_][5] sur [Ubuntu Insights][6]
+
 [1]: ../../../fig/Ubuntu/IoT/UAVIA.jpg
 [2]: http://techcrunch.com/event-info/disrupt-london-2015/
 [3]: http://uavia.eu/
 [4]: https://developer.ubuntu.com/en/snappy/?_ga=1.72093139.196362254.1441195516
+[5]: https://insights.ubuntu.com/2015/12/08/uavia-unveils-first-100-remotely-controlled-drones-powered-by-ubuntu/
+[6]: https://insights.ubuntu.com/
