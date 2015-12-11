@@ -10,9 +10,9 @@ status: Pending_Review
 ---
 
 # UAVIA devoile les premiers drones 100% telecommandes; propulse par Ubuntu
-**Par Thibaut Rouffineau**
-**le 8 Decembre 2015**
-**Traduction: Winael**
+**Par Thibaut Rouffineau**  
+**le 8 Decembre 2015**  
+**Traduction: Winael**  
 
 ![UAVIA][1]
 
