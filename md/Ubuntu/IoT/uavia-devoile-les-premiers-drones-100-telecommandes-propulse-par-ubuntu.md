@@ -16,7 +16,7 @@ status: Pending_Review
 
 ![UAVIA][1]
 
-Aujourd'hui, au TechCrunch Disrupt, la prochaine génération de drones télécommandés est devoilée par UAVIA, propulsée par Snappy Ubuntu Core.
+Aujourd'hui, au [TechCrunch Disrupt][2], la prochaine génération de drones télécommandés est devoilée par [UAVIA][3], propulsée par [Snappy Ubuntu Core][4].
 
 Pour la première fois, UAVIA fait la demonstration d'une nouvelle génération de drones complètement télécommandés. Le premier utilisé à des fins d'inspection et de surveillance. Ce sera la première fois que des drones 100% actionnables à distance seront disponibles sur le marché - et ils ont été construit avec Ubuntu sous le capot.
 
@@ -31,3 +31,6 @@ Bien que l'on puisse sentir cela très axé sur les affaires, il y a des ramific
 TechCrunch Disrupt se déroule au Theâtre Copper Box au cœur du Parc Olympique. Nous faisons des demonstrations d'UAVIA toute la journée aujourd'hui, dans l'allée du materiel, n'oubliez pas de venir nous dire bonjour !
 
 [1]: /home/winael/Documents/Notes/fig/Ubuntu/IoT/UAVIA.jpg
+[2]: http://techcrunch.com/event-info/disrupt-london-2015/
+[3]: http://uavia.eu/
+[4]: https://developer.ubuntu.com/en/snappy/?_ga=1.72093139.196362254.1441195516
