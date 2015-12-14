@@ -12,7 +12,7 @@ tags: eBook,Canonical,IoT,Internet des Objets,Internet of Things,IdO,TelCos,Data
 
 <!-- Chapeau -->
 
-<!-- /Chapeau -->u
+<!-- /Chapeau -->
 
 ----------
 
