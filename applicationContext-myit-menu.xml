@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+		
+	<menuItem icon="/assets/icons/book_alt_24x24.png" label="module.quoter" pos="1">
+		<actiongroup label="quoter.quotations" icon="/assets/icons/folder_open_icon_32x32.png">
+			<action label="quoter.action.searchQuotation" moduleId="quoterModule" actionId="QUOTER_VIEW_SEARCH_QUOTATION" authority="CI_READ"  authorityScope="CI_GLOBAL_SERVICE"/>
+			<action label="quoter.action.createQuotation" moduleId="quoterModule" actionId="QUOTER_VIEW_QUOTATION" authority="CI_CREATE"  authorityScope="CI_GLOBAL_SERVICE"/>
+		</actiongroup>
+		<actiongroup label="quoter.adm" icon="/assets/icons/notepad_2_icon_32x32.png">
+			<action label="quoter.action.readCatalogService" moduleId="quoterModule" actionId="QUOTER_VIEW_IT_CATALOG" authority="SERVICE_CATALOG_READ"/>
+			<action label="quoter.action.addCatalogService" moduleId="quoterModule" actionId="QUOTER_VIEW_IT_CATALOG" params="isCreation: true" authority="SERVICE_CATALOG_EDITION"/>
+			<action label="billing.import.report" moduleId="quoterModule" actionId="QUOTER_VIEW_BILLING_IMPORT" authority="BILLING_REPORT_WRITER"/>
+			<action label="billing.search.report" moduleId="quoterModule" actionId="QUOTER_VIEW_SEARCH_REPORT" authority="BILLING_REPORT_WRITER"/>
+		</actiongroup>
+		<actiongroup label="applications.service" icon="/assets/icons/dashboard_icon_32x32.png">
+			<action label="applications.service.search" moduleId="applicationsModule" actionId="APPLICATION_VIEW_GLOBAL_SERVICE_SEARCH" authority="APPLICATION_ACCESS"/>
+			<action label="applications.template.admin" moduleId="applicationsModule" actionId="APPLICATION_VIEW_TEMPLATES" authority="APP_TEMPLATE_MANAGEMENT"/>
+		</actiongroup>		
+	</menuItem>	
+
+	<menuItem icon="/assets/icons/cogs_icon_24x24.png" label="module.automation" pos="2">	
+		<actiongroup label="automation.ip" icon="/assets/icons/net_comp_icon_32x32.png">
+			<action label="automation.action.reserveEip" moduleId="automationModule" actionId="myit_create_eip" authority="AUTO_CREATE" authorityScope="MYIT_IP"/>
+			<action label="automation.action.releaseEip" moduleId="automationModule" actionId="myit_delete_eip" authority="AUTO_DELETE" authorityScope="MYIT_IP"/>		
+		</actiongroup>
+
+		<actiongroup label="automation.vmware" icon="/assets/icons/box_icon_32x32.png">
+			<action label="automation.action.createVM" moduleId="automationModule" actionId="myit_create_vm" authority="AUTO_CREATE" authorityScope="SYSTEM_INSTANCE"/>
+			<action label="automation.action.enableVM" moduleId="automationModule" actionId="myit_enable_vm" authority="AUTO_UPDATE" authorityScope="SYSTEM_INSTANCE"/>
+			<action label="automation.action.disableVM" moduleId="automationModule" actionId="myit_disable_vm" authority="AUTO_UPDATE" authorityScope="SYSTEM_INSTANCE"/>
+			<action label="automation.action.deleteVM" moduleId="automationModule" actionId="myit_delete_vm" authority="AUTO_DELETE" authorityScope="SYSTEM_INSTANCE"/>
+		</actiongroup>
+		
+		<actiongroup label="automation.fom.creation" icon="/assets/icons/db_icon_32x32.png">
+			<action label="automation.action.createOraZone" moduleId="automationModule" actionId="myit_create_oracleZone" authority="AUTO_CREATE" authorityScope="APPLI_ZONE_ORACLE"/>
+			<action label="automation.action.enableOraZone" moduleId="automationModule" actionId="myit_enable_oracleZone" authority="AUTO_UPDATE" authorityScope="APPLI_ZONE_ORACLE"/>
+			<action label="automation.action.disableOraZone" moduleId="automationModule" actionId="myit_disable_oracleZone" authority="AUTO_UPDATE" authorityScope="APPLI_ZONE_ORACLE"/>
+			<action label="automation.action.deleteOraZone" moduleId="automationModule" actionId="myit_delete_oracleZone" authority="AUTO_DELETE" authorityScope="APPLI_ZONE_ORACLE"/>
+		</actiongroup>		
+
+		<actiongroup label="automation.loadbalancing" icon="/assets/icons/share_2_icon_32x32.png">
+			<action label="automation.action.createBigip" moduleId="automationModule" actionId="myit_create_lb_virtualserver" authority="AUTO_CREATE" authorityScope="LB_VSERVER"/>
+			<action label="automation.action.enableBigip" moduleId="automationModule" actionId="myit_enable_lb_virtualserver" authority="AUTO_UPDATE" authorityScope="LB_VSERVER"/>
+			<action label="automation.action.disableBigip" moduleId="automationModule" actionId="myit_disable_lb_virtualserver" authority="AUTO_UPDATE" authorityScope="LB_VSERVER"/>
+			<action label="automation.action.deleteBigip" moduleId="automationModule" actionId="myit_delete_lb_virtualserver" authority="AUTO_DELETE" authorityScope="LB_VSERVER"/>
+		</actiongroup>
+		
+		<actiongroup label="automation.maintenance" icon="/assets/icons/indent_increase_icon_32x32.png">
+			<action label="automation.action.createMaintenance" moduleId="automationModule" actionId="myit_create_maintenance" authority="AUTO_MAINTENANCE" />
+			<action label="automation.action.deleteMaintenance" moduleId="automationModule" actionId="myit_delete_maintenance" authority="AUTO_MAINTENANCE" />
+		</actiongroup>		
+								
+		<actiongroup label="automation.dns" icon="/assets/icons/globe_2_icon_32x32.png">	
+			<action label="automation.action.addAlias" moduleId="automationModule" actionId="myit_create_alias" authority="AUTO_CREATE" authorityScope="MYIT_DNS"/>
+			<action label="automation.action.deleteAlias" moduleId="automationModule" actionId="myit_delete_alias" authority="AUTO_DELETE" authorityScope="MYIT_DNS"/>			
+			<action label="automation.action.searchDns" moduleId="automationModule" actionId="myit_search_dns" authority="AUTO_DELETE" authorityScope="MYIT_DNS"/>
+		</actiongroup>	
+
+		<actiongroup label="automation.vmware.update" icon="/assets/icons/box_icon_32x32.png">
+			<action label="automation.action.createSnapshotVM" moduleId="automationModule" actionId="myit_create_snapshot_vm" authority="AUTO_UPDATE" authorityScope="SYSTEM_INSTANCE"/>
+			<action label="automation.action.deleteSnapshotVM" moduleId="automationModule" actionId="myit_delete_snapshot_vm" authority="AUTO_UPDATE" authorityScope="SYSTEM_INSTANCE"/>
+		</actiongroup>		
+
+		<actiongroup label="automation.fom.update" icon="/assets/icons/db_icon_32x32.png">
+			<action label="automation.action.updateOraStor" moduleId="automationModule" actionId="myit_update_storage_oracleZone" authority="AUTO_UPDATE" authorityScope="APPLI_ZONE_ORACLE"/>
+			<action label="automation.action.updateOraComponent" moduleId="automationModule" actionId="myit_update_component_oracleZone" authority="AUTO_UPDATE" authorityScope="APPLI_ZONE_ORACLE"/>
+			<action label="automation.action.createSnapshotOraZone" moduleId="automationModule" actionId="myit_create_snapshot_oracleZone" authority="AUTO_UPDATE" authorityScope="APPLI_ZONE_ORACLE"/>
+			<action label="automation.action.deleteSnapshotOraZone" moduleId="automationModule" actionId="myit_delete_snapshot_oracleZone" authority="AUTO_UPDATE" authorityScope="APPLI_ZONE_ORACLE"/>
+		</actiongroup>
+		
+		<actiongroup label="automation.loadbalancing.update"  icon="/assets/icons/share_2_icon_32x32.png">
+			<action label="automation.action.updateBigipConf" moduleId="automationModule" actionId="myit_update_lb_virtualserver" authority="MYIT_RFC" authorityScope="MYIT_RFC" />
+			<action label="automation.action.manageBigipMaintenance" moduleId="automationModule" actionId="myit_manage_lb_maintenance" authority="MYIT_RFC" authorityScope="MYIT_RFC" />
+			<action label="automation.action.updateBigipMembers" moduleId="automationModule" actionId="myit_update_lb_pool" authority="MYIT_RFC" authorityScope="MYIT_RFC" />
+		</actiongroup>
+		
+		<actiongroup label="automation.tasks" icon="/assets/icons/wrench_plus_icon_32x32.png">
+			<action label="automation.action.myTasks" moduleId="automationModule" actionId="AUTOMATION_VIEW_TASKS" params="myTasksOnly: true" authority="ROLE_DEFAULT" />
+			<action label="automation.action.backoffice" moduleId="automationModule" actionId="AUTOMATION_VIEW_TASKS" authority="AUTO_BACKOFFICE" />
+			<action label="automation.action.adminRefNames" moduleId="automationModule" actionId="AUTOMATION_VIEW_REFNAMES" authority="AUTO_BACKOFFICE" />			
+		</actiongroup>
+	</menuItem>	
+		
+	<menuItem icon="/assets/icons/db_icon_24x24.png" label="module.cmdb" pos="3">	
+		<actiongroup label="cmdb.ci" icon="/assets/icons/layers_2_icon_32x32.png">
+			<action label="cmdb.ci.searchCIs" moduleId="cmdbModule" actionId="CMDB_VIEW_SEARCH_CI" authority="CI_MANAGEMENT"/>
+			<action label="cmdb.model.editModel" moduleId="cmdbModule" actionId="CMDB_VIEW_MODEL" authority="CMDB_READ"/>
+		</actiongroup>
+	</menuItem>		
+		
+	<menuItem icon="/assets/icons/contact_card_icon_24x24.png" label="module.users" pos="4">	
+		<actiongroup label="users.users" icon="/assets/icons/user_icon_32x32.png">
+			<action label="users.users.searchUser" moduleId="usersModule" actionId="USERS_VIEW_SEARCH_USER" authority="ROLE_DEFAULT"/>
+		</actiongroup>
+		<actiongroup label="users.groups" icon="/assets/icons/users_icon_32x32.png">
+			<action label="users.groups.searchGroup" moduleId="usersModule" actionId="USERS_VIEW_SEARCH_GROUP" authority="ROLE_DEFAULT"/>
+		</actiongroup>
+		<actiongroup label="users.roles" icon="/assets/icons/cert_icon_32x32.png">
+			<action label="users.roles.searchRole" moduleId="usersModule" actionId="USERS_VIEW_SEARCH_ROLE" authority="AUTHORITIES_MANAGEMENT"/>
+		</actiongroup>
+		<actiongroup label="users.rights" icon="/assets/icons/tag_icon_32x32.png">
+			<action label="users.rights.searchRight" moduleId="usersModule" actionId="USERS_VIEW_SEARCH_AUTHORITY" authority="AUTHORITIES_MANAGEMENT"/>
+		</actiongroup>	
+		<actiongroup label="users.clouds" icon="/assets/icons/cloud_icon_32x32.png">
+			<action label="users.clouds.searchClouds" moduleId="usersModule" actionId="USERS_VIEW_SEARCH_CLOUD" authority="ROLE_DEFAULT"/>
+		</actiongroup>		
+		<actiongroup label="users.rightsModel" icon="/assets/icons/movie_icon_32x32.png">
+			<action label="users.rightsModel.edit" moduleId="usersModule" actionId="USERS_VIEW_RIGHTS_MODEL" authority="AUTHORITIES_MANAGEMENT"/>
+		</actiongroup>			
+	</menuItem>	
+	
+	<menuItem icon="/assets/icons/wrench_plus_2_icon_24x24.png" label="module.administration" pos="5">
+		<actiongroup label="jmsagent.manager" icon="/assets/icons/podcast_icon_32x32.png">
+			<action label="jmsagent.manager.search" moduleId="jmsagentManagerModule" actionId="JMSAGENT_MANAGER_SEARCH" authority="JMSAGENT_MANAGEMENT"/>
+		</actiongroup>		
+		<actiongroup label="quoter.bridge" icon="/assets/icons/image_32x32.png">
+			<action label="quoter.bridge.action.administration" moduleId="quoterModule" actionId="QUOTER_VIEW_BRIDGE_ADMIN" authority="BRIDGE_ADMIN" />
+			<action label="quoter.bridge.action.reqInprogress" moduleId="quoterModule" actionId="QUOTER_VIEW_INPROGRESS_MGR" authority="BRIDGE_ADMIN" />
+		</actiongroup>		
+		<actiongroup label="applications.logs" icon="/assets/icons/spechbubble_sq_line_icon_32x32.png">
+			<action label="applications.view.logs" moduleId="applicationsModule" actionId="APPLICATION_VIEW_LOGS" authority="LOG_ACCESS"/>
+		</actiongroup>
+	</menuItem>	
+
+</menu>

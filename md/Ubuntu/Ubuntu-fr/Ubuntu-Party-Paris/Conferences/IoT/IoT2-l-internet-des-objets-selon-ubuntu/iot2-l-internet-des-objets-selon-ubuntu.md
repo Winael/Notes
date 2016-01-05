@@ -22,11 +22,17 @@ status: draft
 
 # La maison intelligente
 
+## Définition
 
+## Disqualification
 
-# Limitations/contraintes
+# Limitations et contraintes de la domotiques aujourd'hui
 
+## Trop de normes !!!
 
+## Autres éléments disqualifiants
+
+Des 
 
 # La maison ouvertes aux applications
 

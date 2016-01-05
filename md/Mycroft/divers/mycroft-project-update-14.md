@@ -35,15 +35,15 @@ status: to_publish
 
 Comme le temps passe ! une paire de semaines a passée depuis notre dernière mise à jour. Nous avons été très occupés ces derniers temps, mais nous avons énormément de bonnes nouvelles à annoncer à nos bailleurs.
 
-- Popular Science a fait un bon reportage d'une page sur Mycroft et notre processus de conception. L'article est apparu dans le magazine et en ligne la semaine dernière - (bit.ly/1NyrIzt)
+- Popular Science a fait un bon reportage d'une page sur Mycroft et notre processus de conception. L'article est apparu dans le magazine et en ligne la semaine dernière - ([bit.ly/1NyrIzt](http://bit.ly/1NyrIzt))
 
-- L'équipe de Mycroft a terminé et sortie notre vidéo de dronecast qui montre une nouvelle application de Mycroft - (bit.ly/1IexfsA)
+- L'équipe de Mycroft a terminé et sortie notre vidéo de dronecast qui montre une nouvelle application de Mycroft - ([bit.ly/1IexfsA](bit.ly/1IexfsA))
 
-- L'équipe du Kansas a assisté au Weekend Startup de Kansas City en tant qu'exercice de consolidation d'équipe et est arrivée à la 2de place. Il a été convenu par tout le monde que ce fut un excellent événement et l'équipe a vraiment passé un bon moment. (bit.ly/1la9OGe)
+- L'équipe du Kansas a assisté au Weekend Startup de Kansas City en tant qu'exercice de consolidation d'équipe et est arrivée à la 2de place. Il a été convenu par tout le monde que ce fut un excellent événement et l'équipe a vraiment passé un bon moment. ([bit.ly/1la9OGe](bit.ly/1la9OGe))
 
 - Après avoir vu l'équipe travailler ensemble au WeekEnd Startup de Kansas City, Karl Watson a décidé de passer de conseiller à membre du personnel. Karl prendra en charge les fonctions de Directeur Financier libérant Kris afin qu'elle puisse se concentrer sur le marketing. Karl a passé les quinze dernières années en tant que partenaire et Directeur d'exploitation de GPW & Associates, LLC - une firme de génie-conseil spécialisée en génie électrique et mécanique. Avant cela, il était le directeur financier de DiscoverME où il a clos 2,7 millions $ en financement géré des processus juridiques et administratifs. Avant de rejoindre DiscoverME, Karl était le directeur de la planification pour Payless Shoe Source où il a dirigé l'allocation annuelle d'1,1 milliards $.
 
-- L'équipe de matériel est dans la dernière ligne droite. La dernière enceinte est sortie de l'imprimante et nous avons achevé les prototypes des cartes à la fois pour l'ampli et l'interface audio i2S. (bit.ly/1S9PiQQ), (bit.ly/1X3xOMw)
+- L'équipe de matériel est dans la dernière ligne droite. La dernière enceinte est sortie de l'imprimante et nous avons achevé les prototypes des cartes à la fois pour l'ampli et l'interface audio i2S. ([bit.ly/1S9PiQQ](bit.ly/1S9PiQQ)), ([bit.ly/1X3xOMw](bit.ly/1X3xOMw))
 
 Nous restons occupés, et avec Thanksgiving hier, divers membres de l'équipe ont partagé leur reconnaissance de travailler sur un projet aussi impressionnant. Nous ne pouvons pas attendre pour partager avec nos fans un tas de grandes initiatives que nous menons  dans les semaines à venir. Alors restez à l'écoute !
 

@@ -3,16 +3,21 @@
 body {
 	margin: 5%;
 	text-align: justify;
-	font-size: 12px;
+	font-size: 16px;
 	font-family: Ubuntu;
 }
 
 h1 {
-	font: 45px Ubuntu Light 1.3em;
+	font-size: 32px;
+	font-family: Ubuntu;
+	font-weight: lighter;
+	text-align: left;
 }
 
 h2 {
-	font: 32px Ubuntu Light 1.3em;
+	font-size: 23px;
+	font-family: Ubuntu;
+	font-weight: lighter;
 }
 
 h3 {
@@ -37,5 +42,20 @@ a {
 }
 
 p {
-	font: 16px Ubuntu Light 1.5em;
+	font-size: 16px;
+	font-family: Ubuntu;
+	font-weight: lighter;
+}
+
+.title {
+	font-size: 32px;
+	font-family: Ubuntu;
+	font-weight: lighter;
+	text-align: left;
+}
+
+.author {
+	font-size: 23px;
+	font-family: Ubuntu;
+	font-weight: lighter;
 }
