@@ -4,7 +4,7 @@ title: "Mycroft Project - Mise à jour #15"
 author: Ryan Sipes
 translation: Winael
 correction: 
-date: 2015-11-27
+date: 2015-12-07
 category: Mycroft
 tags: Mycroft,IoT,Internet of Things,IdO,Internet des objets,AI,Artificial Intelligence,IA,Intelligence Articilelle,opensource,Raspberry Pi 2,Snappy, Ubuntu
 status: to_translate
