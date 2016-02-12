@@ -55,6 +55,14 @@ Ok. So we have dependances to install, we have to clone the repository of etherp
 
 That seems pretty simple. So now how we could snapp it ?
 
+## How works the app ?
+
+Don't be in a hurry, before to snapp the app, we'll have to know how it works.
+
+So I the procedure said, to launch etherpad-lite, we have to run `bin/run.sh`. But what does this script shell ?
+
+
+
 ## The `snapcraft.yaml` file
 
 So, first of all, we'll need to create a folder etherpad-lite, where we will build our snapp and move in there.
