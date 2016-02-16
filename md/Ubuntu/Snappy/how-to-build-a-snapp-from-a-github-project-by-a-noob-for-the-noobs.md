@@ -245,4 +245,4 @@ lrwxrwxrwx 2 winael winael       51 févr. 15 00:23 etherpad-lite -> ../lib/node
 
 [1]: https://github.com/ether/etherpad-lite#gnulinux-and-other-unix-like-systems
 [2]: https://github.com/ether/etherpad-lite/blob/develop/bin/run.sh
-[3]: 
+[3]: https://github.com/ether/etherpad-lite/blob/develop/bin/installDeps.sh
