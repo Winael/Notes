@@ -11,7 +11,7 @@ tags: Eau, Tourbillon, Traitement de l'eau
 Case 1
 -->
 
-# Le tourbillon (Cas 1)
+# Cas 001 : Le Tourbillon
 
 <!-- lang: en
 saves energy, eliminates chemicals and generates 250,000 jobs within a decade
