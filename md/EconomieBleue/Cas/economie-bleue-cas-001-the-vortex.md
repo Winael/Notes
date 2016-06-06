@@ -18,8 +18,8 @@ saves energy, eliminates chemicals and generates 250,000 jobs within a decade
 Researched, Written and Updated by Gunter Pauli
 -->
 
-économise l'énergie, élimine des produits chimique et génère 250 000 emplois en une décénie.
-Recherche, ecrit et mis à jour par Gunter Pauli
+_économise l'énergie, élimine des produits chimique et génère 250 000 emplois en une décénie._
+_Recherche, ecrit et mis à jour par Gunter Pauli_
 
 <!-- lang: en
 This article introduces the vortex as one of the 100 innovations that shape The Blue Economy, which is known as ZERIʼs philosophy in action. This article is of part of a broad effort by the author and the designer of the Blue Economy to stimulate open source entrepreneurship, competitiveness and employment. For more information about the origin of ZERI <www.zeri.org> Zero Emission Research ans Initiatives
