@@ -100,7 +100,7 @@ Ce ne sont que quelques-unes des applications du tourbillon qui ont été réali
 Gunter Pauli is the author of the Report to the Club of Rome: “Blue Economy: 100 Innovations - 10 years - 100 million jobs” published in 35 languages worldwide. For further background on the 100 cases: www.TheBlueEconomy.org
 -->
 
-Gunter Pauli est l'auteur du rapport du Club de Rome: "Economie Bleue: 100 Innovations - 10 ans - 100 millions d'emplois», publié en 35 langues dans le monde entier. Pour en savoir plus sur le fond de ces 100 cas: [www.TheBlueEconomy.org][4]
+Gunter Pauli est l'auteur du rapport du Club de Rome: _« Economie Bleue: 100 Innovations - 10 ans - 100 millions d'emplois »_, publié en 35 langues dans le monde entier. Pour en savoir plus sur le fond de ces 100 cas: [www.TheBlueEconomy.org][4]
 
 [1]: www.zeri.org
 [2]: http://www.watreco.com/
