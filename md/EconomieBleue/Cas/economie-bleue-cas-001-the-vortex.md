@@ -18,7 +18,7 @@ saves energy, eliminates chemicals and generates 250,000 jobs within a decade
 Researched, Written and Updated by Gunter Pauli
 -->
 
-_économise l'énergie, élimine des produits chimique et génère 250 000 emplois en une décénie._
+_économise l'énergie, élimine des produits chimique et génère 250 000 emplois en une décénie._  
 _Recherche, ecrit et mis à jour par Gunter Pauli_
 
 <!-- lang: en
